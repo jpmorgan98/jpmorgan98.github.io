@@ -13,7 +13,7 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Joanna Piper Morgan"
 title_separator          : "-"
-subtitle                 : "A cool gal"
+subtitle                 : "in somnis veritas"
 name                     : &name "Joanna Piper Morgan" # &name is a YAML anchor which can be *referenced later
 description              : &description " "
 url                      : https://jpmorgan98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -52,12 +52,12 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-search                   : true # true, false (default)
-search_full_content      : true # true, false (default)
+search                   : false # true, false (default)
+search_full_content      : false # true, false (default)
 search_provider          : algolia # lunr (default), algolia
 algolia:
   application_id         : QB6HVGBSBA # YOUR_APPLICATION_ID
-  index_name             : minimal_mistakes # YOUR_INDEX_NAME
+  index_name             : jpmorgan98.github.io # YOUR_INDEX_NAME
   search_only_api_key    : 9d5014e5bbc77372547bce778dfa5663 # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : true # true (default), false
   files_to_exclude:
@@ -99,26 +99,32 @@ analytics:
 author:
   name             : J. Piper Morgan # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/jo.jpg"
-  bio              : "Oh lord she's kinda cute"
+  bio              : "(she/her) kinda cute"
   location         : "Corvallis, OR"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://jpmorgan98.github.io"
     - label: "Github"
-      icon: "fab fa-fw fa-github-square"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/jpmorgan98"
+    - label: "Contact"
+      icon: 'fas fa-fw fa-envelope-square'
+      url: "mailto:joannapipermorgan@gmail.com"
 
+  #- label: "Website"
+  #  icon: "fas fa-fw fa-link"
+  #  url: "https://jpmorgan98.github.io"
 
 # Site Footer
 footer:
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://jpmorgan98.github.io"
     - label: "Github"
-      icon: "fab fa-fw fa-github-square"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/jpmorgan98"
+    - label: "Contact"
+      icon: 'fas fa-fw fa-envelope-square'
+      url: "mailto:joannapipermorgan@gmail.com"
 
 
 # Reading Files
@@ -262,7 +268,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)

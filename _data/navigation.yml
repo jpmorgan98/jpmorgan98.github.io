@@ -20,11 +20,11 @@ foo:
 
 # main links
 main:
-  - title: "CV"
+  - title: "cv"
     url: /cv/
-  - title: "About"
+  - title: "about"
     url: /about/
-  - title: "Work"
+  - title: "work"
     url: /work/
 
 

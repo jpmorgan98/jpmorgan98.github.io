@@ -1,10 +1,34 @@
 ---
+class: wide
 permalink: /about/
 title: "About"
 excerpt: "She's kinda cool"
 layouts_gallery:
 ---
 
-Hopefully you don't think I am too pertentious or narssistic for having my own website but if you do I guess there's nothing I could do bout that.
+My friends call me Piper but Joanna or any nicknames derivative of that will work!
 
-In my free time I like to volunteer at the historic [Whiteside Theater](https://www.whitesidetheatre.org/) in Corvallis and watch wayyyyyy too much youtube.
+I'm a grad student at Oregon State University where I will get my PhD in mechanical engineering with an emphasis in thermal fluid sciences and a minor in nuclear engineering sometime in 2025. 
+
+My current research is in dynamic Monte Carlo neutron transport for high performance/heterogeneous compute systems enabled by Python. This research is part of the Center for Exascale Monte Carlo Neutron Transport (CEMeNT) which is funded by the NNSA, through which I will get to run computer programs on some of the largest supercomputers in the world!
+
+I also currently work with adding functionality to production transport codes at Los Alamos National Lab. Previously I have interned at Argonne and Thomas Jefferson National Labs where I worked on superconducting/conventional particle accelerator magnet design.
+
+In 2020 I graduated magna cum laude from the Oregon Institute of Technology with my B.S. in Mechanical Engineering and two minors in applied physics and applied mathematics.
+
+Otherwise I am known for making a pretty good pun every now and again and kicking butt at trivia! I also like to volunteer at the historic [Whiteside Theater](https://www.whitesidetheatre.org/) in Corvallis and watch wayyyyyy too much youtube.
+
+Hopefully you don't think I am too pretentious or narcissistic for having my own website; really I'm just a dork.
+
+<small> *I have previously published under the name Jackson Morgan. I do not use that name any more.*
+
+## Academic Lineage
+My full academic lineage can be found thru my advisor's (Kyle Niemeyer) [Mathematics Genealogy Project profile](https://www.mathgenealogy.org/id.php?id=180371), but briefly, I am advised by:
+
+* Kyle Niemyer (Ph.D., Case Western Reserve Univeristy), who was advised by
+* Jackie Sung, (Ph.D., Princeton University), who was advised by
+* Chung K. Law, (Ph.D., University of California, San Diego), who was advised by
+* Forman A. Williams (Ph.D., Caltech), who had Richard Feynman on his dissertation committee and was advised by
+* Stanford S. (Sol) Penner (Ph.D., University of Wisconsin–Madison), who was advised by
+* Farrington Daniels (Ph.D., Harvard) and Theodore von Kármán (Dr. phil., University of Göttingen), the latter of whom was advised by
+* Ludwig Prandtl.

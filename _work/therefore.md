@@ -1,8 +1,8 @@
 ---
 title: "Therefore"
-excerpt: "Deterministic GPU neutron transport using one cell inversions"
+excerpt: "deterministic GPU neutron transport using one cell inversions"
 header:
-    teaser: assets/images/therefore.png
+    teaser: assets/images/reeds.png
 
 
 categories:

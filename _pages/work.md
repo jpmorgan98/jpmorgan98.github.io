@@ -4,8 +4,8 @@ layout: collection
 class: wide
 permalink: /work/
 collection: work
-entries_layout: grid
 
+# entries_layout: grid
 ---
 
-Some interesting work
+Some interesting work I have done over the last few years

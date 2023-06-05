@@ -1,0 +1,16 @@
+# Authors
+
+Joanna:
+  name        : "J. Piper Morgan"
+  bio         : "She's got style, she's got grace"
+  avatar      : "/assets/images/jo-croped.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://jpmorgan98.github.io"
+    - label: "Github"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/jpmorgan98"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jpmorgan98@gmail.com"

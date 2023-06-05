@@ -5,14 +5,14 @@ hidden: false
 title: "Howdy!"
 
 header:
-   overlay_color: "#fbb34c"
+  overlay_color: "#e38a0e"
   # overlay_image: /assets/images/jo.jpg
   actions:
     - label: "<i class='fas fa-download'></i> cv"
       url: "/assets/docs/cv"
-    - label: "<i class='fas fa-email'></i> contact"
+    - label: "<i class='fas fa-fw fa-envelope-square'></i> contact"
       url: "jpmorgan98@gmail.com"
-    - label: "<i class='fas fa-github'></i> github"
+    - label: "<i class='fab fa-fw fa-github-square'></i> github"
       url: "https://github.com/jpmorgan98"
     - label: "<i class='fas fa-link'></i> CEMeNT"
       url: "https://cement-psaap.github.io/"

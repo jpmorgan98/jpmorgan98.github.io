@@ -24,10 +24,8 @@ main:
     url: /cv/
   - title: "About"
     url: /about/
-  - title: "Posts"
-    url: /year-archive/
-  - title: "Personal Journal Website"
-    url: /personal/
+  - title: "Work"
+    url: /work/
 
 
 # documentation links

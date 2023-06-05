@@ -1,19 +1,16 @@
 ---
 permalink: /cv/
-title: "cv"
+title: "*Selected curriculum vitae*"
 excerpt: "my cv"
-author: Joanna
 
 toc: true
 ---
 
 [See my full pdf CV here](/assets/docs/cv.pdf)
 
-# *Selected curriculum vitae*
-
 ## Education
 
-* PhD Mechanical Engineering //
+* PhD Mechanical Engineering \\
 Oregon State Universiy
 
 * MS Mechanical Engineering
@@ -44,7 +41,7 @@ Oregon State Universiy
 
 * MCDC
 
-## Summer School
+## Summer Schools
 
 * UCSD HEDS
 

@@ -1,38 +1,59 @@
 ---
 layout: splash
 permalink: /
-hidden: true
+hidden: false
+title: "Howdy!"
+
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+   overlay_color: "#fbb34c"
+  # overlay_image: /assets/images/jo.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+    - label: "<i class='fas fa-download'></i> cv"
+      url: "/assets/docs/cv"
+    - label: "<i class='fas fa-email'></i> contact"
+      url: "jpmorgan98@gmail.com"
+    - label: "<i class='fas fa-github'></i> github"
+      url: "https://github.com/jpmorgan98"
+    - label: "<i class='fas fa-link'></i> CEMeNT"
+      url: "https://cement-psaap.github.io/"
+
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
+  Welcome to my Professional Site<br />
+
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+  - image_path: /assets/images/trt.gif
+    alt: "trt"
+    title: "Flocking A"
+    excerpt: "Varience reduction for the thermal radiation transport"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+  - image_path: /assets/images/therefore.png
+    alt: "PBJ Deterministic Neutron Transport"
+    title: "PBJ Deterministic Neutron Transport"
+    excerpt: "Cell-wise parallel block Jacobi itterative method to solve the NTE"
+    url: "/posts/therefore"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
+  - image_path: /assets/images/mcdc.png
     alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+    title: "Monte Carlo / Dynamic Code"
+    excerpt: "The razors edge of transent neutron transport!"
+    url: "/posts/mcdc"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Learn more"
+
 ---
 
+I'm a grad student at Oregon State University where I will get my PhD in mechanical engineering with an emphasis in thermal fluid sciences and a minor in nuclear engineering sometime in 2025. 
+
+My current research is in dynamic Monte Carlo neutron transport for high performance/heterogeneous compute systems enabled by Python. This research is part of the Center for Exascale Monte Carlo Neutron Transport (CEMeNT) which is funded by the NNSA, through which I will get to run computer programs on some of the largest supercomputers in the world!
+
+I also currently work with adding functionality to production transport codes at Los Alamos National Lab. Previously I have interned at Argonne and Thomas Jefferson National Labs where I worked on superconducting/conventional particle accelerator magnet design.
+
+In 2020 I graduated magna cum laude from the Oregon Institute of Technology with my B.S. in Mechanical Engineering and two minors in applied physics and applied mathematics.
+
+Otherwise I am known for making a pretty good pun every now and again and kicking butt at trivia!
+
+# Some Interesting Projects
+This list is non-exhuastive
 {% include feature_row %}

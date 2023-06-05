@@ -7,7 +7,7 @@
 
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
 locale                   : "en-US"
@@ -15,12 +15,12 @@ title                    : "Joanna Piper Morgan"
 title_separator          : "-"
 subtitle                 : "A cool gal"
 name                     : &name "Joanna Piper Morgan" # &name is a YAML anchor which can be *referenced later
-description              : &description "A Nuclear and Mechnical Engineering PhD Student"
+description              : &description " "
 url                      : https://jpmorgan98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/jpmorgan98/jpmorgan98.github.io"
+#repository               : "https://github.com/jpmorgan98/jpmorgan98.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : /assets/images/profile.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 50
@@ -97,8 +97,8 @@ analytics:
 
 # Site Author
 author:
-  name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/jo_croped.jpg"
+  name             : J. Piper Morgan # *name is a YAML reference pointing to the &anchor earlier
+  avatar           : "/assets/images/jo.jpg"
   bio              : "Oh lord she's kinda cute"
   location         : "Corvallis, OR"
   links:

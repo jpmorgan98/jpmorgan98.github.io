@@ -3,7 +3,7 @@
 Joanna:
   name        : "J. Piper Morgan"
   bio         : "She's got style, she's got grace"
-  avatar      : "/assets/images/jo-croped.jpg"
+  avatar      : "/assets/images/jo_croped.jpg"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

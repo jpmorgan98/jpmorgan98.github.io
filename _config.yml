@@ -102,14 +102,14 @@ author:
   bio              : "(she/her) kinda cute"
   location         : "Corvallis, OR"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://jpmorgan98.github.io"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/jpmorgan98/
     - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jpmorgan98"
     - label: "Contact"
-      icon: 'fas fa-fw fa-envelope-square'
+      icon: 'fas fa-fw fa-envelope'
       url: "mailto:joannapipermorgan@gmail.com"
 
   #- label: "Website"

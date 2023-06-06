@@ -1,7 +1,7 @@
 ---
 title: Work
 layout: collection
-class: wide
+classes: wide
 permalink: /work/
 collection: work
 

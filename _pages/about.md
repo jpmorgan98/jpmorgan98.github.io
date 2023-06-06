@@ -1,8 +1,8 @@
 ---
-class: wide
+classes: wide
 permalink: /about/
 title: "About"
-excerpt: "She's kinda cool"
+excerpt: "She's fine? Like I guess"
 layouts_gallery:
 ---
 
@@ -20,7 +20,7 @@ Otherwise I am known for making a pretty good pun every now and again and kickin
 
 Hopefully you don't think I am too pretentious or narcissistic for having my own website; really I'm just a dork.
 
-<small> *I have previously published under the name Jackson Morgan. I do not use that name any more.*
+<small> *I have previously published under the name Jackson Morgan.*
 
 ## Academic Lineage
 My full academic lineage can be found thru my advisor's (Kyle Niemeyer) [Mathematics Genealogy Project profile](https://www.mathgenealogy.org/id.php?id=180371), but briefly, I am advised by:

@@ -5,11 +5,11 @@ Joanna:
   bio         : "She's got style, she's got grace"
   avatar      : "/assets/images/jo_croped.jpg"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://jpmorgan98.github.io"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/jpmorgan98/
     - label: "Github"
-      icon: "fab fa-fw fa-github-square"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/jpmorgan98"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

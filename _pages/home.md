@@ -55,7 +55,7 @@ feature_row:
 
 Welcome to my professional website. Feel free to click around look at some of my projects, cv, or whatever floats your boat! If you feel inclined to reach out (e.g. academic discussions, just wanna say hi, etc.) please don't hesitate to shoot me an email at [joannapipermorgan@gmail.com](mailto:joannapipermorgan@gmail.com).
 
-The work listed here is done in conjunction with amazing colleagues and mentors at various institutions like Oregon State University and Los Alamos National Lab to name a few. I stand on the shoulders of these and many many more giants.
+The work listed here is done in conjunction with amazing colleagues and mentors at various institutions like Oregon State University and Los Alamos National Lab. I stand on the shoulders of these and many many more giants.
 
 
 # Some Interesting Projects

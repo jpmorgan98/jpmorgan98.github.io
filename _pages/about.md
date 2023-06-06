@@ -16,14 +16,14 @@ I also currently work with adding functionality to production transport codes at
 
 In 2020 I graduated magna cum laude from the Oregon Institute of Technology with my B.S. in Mechanical Engineering and two minors in applied physics and applied mathematics.
 
-Otherwise I am known for making a pretty good pun every now and again and kicking butt at trivia! I also like to volunteer at the historic [Whiteside Theater](https://www.whitesidetheatre.org/) in Corvallis and watch wayyyyyy too much youtube.
+In my free time I like to volunteer at the historic [Whiteside Theater](https://www.whitesidetheatre.org/) in Corvallis and watch wayyyyyy too much youtube. Otherwise I am known for making a pretty good pun every now and again and kicking butt at trivia! 
 
-Hopefully you don't think I am too pretentious or narcissistic for having my own website; really I'm just a dork.
+At my core I am just a big ol goober
 
 <small> *I have previously published under the name Jackson Morgan.*
 
 ## Academic Lineage
-My full academic lineage can be found thru my advisor's (Kyle Niemeyer) [Mathematics Genealogy Project profile](https://www.mathgenealogy.org/id.php?id=180371), but briefly, I am advised by:
+My full academic lineage can be found thru my advisor's ([Kyle Niemeyer](https://niemeyer-research-group.github.io/)) [Mathematics Genealogy Project profile](https://www.mathgenealogy.org/id.php?id=180371), but briefly, I am advised by:
 
 * Kyle Niemyer (Ph.D., Case Western Reserve Univeristy), who was advised by
 * Jackie Sung, (Ph.D., Princeton University), who was advised by

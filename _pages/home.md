@@ -28,6 +28,7 @@ excerpt: >
 
 feature_row:
   - image_path: /assets/images/trt.gif
+    image_url: /assets/images/trt.gif
     alt: "trt"
     title: "Flocking A"
     excerpt: "variance reduction for the thermal radiation transport monte carlo"

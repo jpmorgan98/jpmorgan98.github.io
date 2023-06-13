@@ -10,7 +10,7 @@ My friends call me Piper but Joanna or any nicknames derivative of that will wor
 
 I'm a grad student at Oregon State University where I will get my PhD in mechanical engineering with an emphasis in thermal fluid sciences and a minor in nuclear engineering sometime in 2025. 
 
-My current research is in dynamic Monte Carlo neutron transport for high performance/heterogeneous compute systems enabled by Python. This research is part of the Center for Exascale Monte Carlo Neutron Transport (CEMeNT) which is funded by the NNSA, through which I will get to run computer programs on some of the largest supercomputers in the world!
+My current research is in dynamic Monte Carlo neutron transport for high performance/heterogeneous compute systems enabled by Python. This research is part of the [Center for Exascale Monte Carlo Neutron Transport (CEMeNT)](https://cement-psaap.github.io/) which is funded by the NNSA, through which I will get to run computer programs on some of the largest supercomputers in the world!
 
 I also currently work with adding functionality to production transport codes at Los Alamos National Lab. Previously I have interned at Argonne and Thomas Jefferson National Labs where I worked on superconducting/conventional particle accelerator magnet design.
 

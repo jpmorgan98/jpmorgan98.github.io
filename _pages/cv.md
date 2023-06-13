@@ -33,7 +33,7 @@ classes: wide
 * Oregon State University, [Niemeyer Research Group (NRG)](https://niemeyer-research-group.github.io/) (June 2020 - Present)\\
 <small> Graduate Research Assistant\\
         Mentor: [Kyle Niemeyer](https://niemeyer-research-group.github.io/), [Todd Palmer](https://engineering.oregonstate.edu/people/todd-palmer)\\
-        Projects: [MC/DC](/_posts/mcdc_a.md), [Therefore](/work/therefore.md)
+        Projects: [MC/DC](/_posts/mcdc_a.md), [Therefore](/work/therefore.md), [CEMeNT](https://cement-psaap.github.io/)
 
 * [Los Alamos National Lab](https://www.lanl.gov/), [XCP-3](https://www.lanl.gov/org/padwp/adx/computational-physics/xcp-3-monte-carlo/index.php) (June 2022 - May 2023)\\
 <small> Graduate Research Intern\\
@@ -68,7 +68,7 @@ classes: wide
 ## Conference Attendance
 * August 2023, International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering, Niagara Falls, ON, Canada*
 * July 2022, Scientific Computing in Python, Austin, TX*
-* June 2022 American Nuclear Society Annual Conference, Anaheim, CA*
+* June 2022 American Nuclear Society Annual Conference, Anaheim, CA (Presentation DOI: [https://doi.org/10.2172/1821347](https://doi.org/10.2172/1821347))*
 * October 2021, Conference on Mathematics and Computational Methods Applied to Nuclear Science, Raleigh, NC \\
 <small>*presented at conference
 

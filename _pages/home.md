@@ -10,18 +10,20 @@ header:
   overlay_color: "#e38a0e"
   overlay_image: /assets/images/title.png 
   actions:
-    - label: "<i class='fas fa-download'></i> cv"
-      url: "/cv/"
     - label: "<i class='fab fa-fw fa-github'></i> github"
       url: "https://github.com/jpmorgan98"
-    - label: "CEMeNT"
+    - label: "cement"
       url: "https://cement-psaap.github.io/"
-    - label: "ORCID"
+    - label: "<i class='fab fa-fw fa-orcid'></i>orcid"
       url: https://orcid.org/0000-0003-1379-5431
+    - label: "linked<i class='fab fa-fw fa-linkedin'></i>"
+      url: https://www.linkedin.com/in/jpmorgan98/
 
 #<i class='fa-brands fa-orcid'></i>
 #- label: "<i class='fas fa-fw fa-envelope-square'></i> contact"
 #      url: "mailto:joannapipermorgan@gmail.com"
+#    - label: "<i class='fas fa-download'></i> cv"
+#      url: "/cv/"
 
 excerpt: >
   I'm a nuclear and mechanical engineering grad student who likes a good pun<br />

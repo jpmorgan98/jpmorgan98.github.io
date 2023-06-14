@@ -3,7 +3,7 @@ classes: wide
 title: "A Basic Primer for Monte Carlo / Dynamic Code"
 excerpt: "the razors edge of transient neutron transport!"
 header:
-    teaser: assets/images/kobayashi.gif
+    teaser: "/assets/images/mcdc-logo.svg"
 categories:
   - Edge Case
 tags:

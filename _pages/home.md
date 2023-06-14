@@ -44,7 +44,7 @@ feature_row:
     url: "/work/therefore"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/kobayashi.gif
+  - image_path: "/assets/images/mcdc-logo.svg"
     alt: "Kobayashi dog leg problem"
     title: "Monte Carlo / Dynamic Code"
     excerpt: "the razors edge of transient neutron transport!"

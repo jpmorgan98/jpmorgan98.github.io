@@ -16,6 +16,6 @@ Again more work I did in conjunction with Los Alamos National Lab. This time wit
 Just as a brief introduction: Monte Carlo Application Toolkit or MCATK is available from Los Alamos National Lab and does exactly what it sounds like. My job was to implement an idea my boss (Travis Trahan) had in it.
 
 The paper was written for the International conference on Math & Comp in Niagara Falls, ON, Can.
-* preprint of the paper is available here
-* formal paywalled article can be found here
-* poster presentation
+* [preprint of the paper](https://doi.org/10.48550/arXiv.2306.07847)
+* formal paywalled article will bw linked
+* poster presentation will be linked

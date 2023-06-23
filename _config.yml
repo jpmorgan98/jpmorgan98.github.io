@@ -129,6 +129,9 @@ footer:
     - label: "Contact"
       icon: 'fas fa-fw fa-envelope-square'
       url: "mailto:joannapipermorgan@gmail.com"
+    - label: "Disclaimer"
+      icon: "fas fa-fw fa-file-contract"
+      url: /disclaimer
 
 
 # Reading Files

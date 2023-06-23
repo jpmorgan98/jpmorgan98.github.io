@@ -20,15 +20,7 @@ In my free time I like to volunteer at the historic [Whiteside Theater](https://
 
 At my core I am just a big ol goober
 
-<small> *I have previously published under the name Jackson Morgan.*
+<small> *I have previously published under the name Jackson Porter Morgan.*
 
 ## Academic Lineage
-My full academic lineage can be found thru my advisor's ([Kyle Niemeyer](https://niemeyer-research-group.github.io/)) [Mathematics Genealogy Project profile](https://www.mathgenealogy.org/id.php?id=180371), but briefly, I am advised by:
-
-* Kyle Niemyer (Ph.D., Case Western Reserve Univeristy), who was advised by
-* Jackie Sung, (Ph.D., Princeton University), who was advised by
-* Chung K. Law, (Ph.D., University of California, San Diego), who was advised by
-* Forman A. Williams (Ph.D., Caltech), who had Richard Feynman on his dissertation committee and was advised by
-* Stanford S. (Sol) Penner (Ph.D., University of Wisconsin–Madison), who was advised by
-* Farrington Daniels (Ph.D., Harvard) and Theodore von Kármán (Dr. phil., University of Göttingen), the latter of whom was advised by
-* Ludwig Prandtl.
+My full academic lineage can be found thru my advisor's ([Kyle Niemeyer](https://niemeyer-research-group.github.io/)) [Mathematics Genealogy Project profile](https://www.mathgenealogy.org/id.php?id=180371). it's kinda fun to go snooping around and see who you can find!

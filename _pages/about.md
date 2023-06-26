@@ -25,36 +25,5 @@ At my core I am just a big ol goober
 ## Academic Lineage
 My full academic lineage can be found thru my advisor's ([Kyle Niemeyer](https://niemeyer-research-group.github.io/)) [Mathematics Genealogy Project profile](https://www.mathgenealogy.org/id.php?id=180371). it's kinda fun to go snooping around and see who you can find!
 
-## *in somins veritas*
-is my personal motto. The translation from latin is `in dreams, truth`. My affinity for this phrase actually predates my transition (I am a transgender woman if that hasn't been made obvious yet) and is *almost* too clichéd in light of it. None the less I like it. At some point I wild hair---I was drunk---to write this poem which I feel like captures it's meaning to me. A little pretentious but whatever; this page is about me and this is very much an expression of myself:
 
-that first breath you take when you know Freedom, \\
-that first step when you see the coming of the Dawn, \\
-that first glimpse at the potential of the Morning, \\
-that first moment of your life is as a Phenix song
-{: style="text-align: center;"}
 
-it sings in spite of the ratchet straps of old \\
-the spurious ansätze that led to false roots \\
-it sings to Righteous crescendo in omnipotent harmony \\
-sans Doubt to boot.
-{: style="text-align: center;"}
-
-*in somnis veritas*, guides towards \\
-*ad augusta per angusta*, \\
-dreams of narrow roads to the high places \\
-as the old world schleps into avalon \\
-the new zion beacons you Forward
-{: style="text-align: center;"}
-
-the horizon in that infinitesimal shows that both are equally true \\
-but much like armstrong, gamgee, and tannhäuser \\
-you meekly take a first step towards Deliverance, \\
-the physical, in many ways, is unillustrative of the truth
-{: style="text-align: center;"}
-
-that the first has within it the Strength of the old days that moved earth and heaven \\
-the equal temper of heroic hearts \\
-renewed in Graceful spite of time and fate \\
-Striving Seeking Finding and Never Yielding
-{: style="text-align: center;"}

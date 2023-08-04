@@ -53,7 +53,7 @@ classes: wide
 * [Jefferson National Accelerator Facility](https://www.jlab.org/), Magnet Group (June 2018 - August 2018)\\
 <small> [Science Undergraduate Laboratory Intern (SULI)](https://science.osti.gov/wdts/suli)\\
         Mentor: Renuka Rajput-Goshal\\
-        Project: Super conducting quadrupole magnet optimization
+        Project: [Super conducting quadrupole magnet optimization](https://education.jlab.org/ugresearch/18-13.html)
 
 ## Selected Publications
 
@@ -76,7 +76,7 @@ https://doi.org/10.48550/arXiv.2306.07847).
 ## Summer Schools
 
 * High Energy Density Science Summer School (HEDS), July 2023, San Diego, CA\\
-<small> Credit provided by University of California, San Diego
+<small> Hosted at University of California San Diego
 
 * United States Particle Accelerator School (USPAS), June 2018, Albuquerque, NM\\
 <small> Course: *Fundamentals of Accelerator Physics and Technology with Simulations and Measurements Lab*\\

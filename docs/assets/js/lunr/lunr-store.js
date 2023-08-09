@@ -18,10 +18,10 @@ var store = [{
         "teaser": "/assets/images/kobayashi.gif"
       },{
         "title": "Therefore",
-        "excerpt":" ","categories": ["my work"],
+        "excerpt":"Therefore is a deterministic testbed that couples ~higher~ order discretization schemes and two separate iteration methods for transient radiation transport to various hardware acceleration backends in a sparse linear algebra framework. We started with a full Python based implementation using Numba, SciPy and CuPy (1D, transient mono-energetic) then moved into...","categories": ["my work"],
         "tags": ["gpu","neutron transport"],
         "url": "/work/therefore/",
-        "teaser": "/assets/images/reeds.png"
+        "teaser": "/assets/images/therefore.png"
       },{
         "title": "Flocking A",
         "excerpt":"This work was done while I was internship with Alex and Kendra Long in CCS-2 at Los Alamos National Lab. As all publications have to go through review, I leave the work to stand for itself. I can also link to the actual presentation I gave at the annual meeting...","categories": ["my work"],

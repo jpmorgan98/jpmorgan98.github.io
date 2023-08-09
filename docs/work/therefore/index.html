@@ -30,13 +30,13 @@
 
 
 
-  <meta property="og:image" content="http://localhost:4000/assets/images/reeds.png">
+  <meta property="og:image" content="http://localhost:4000/assets/images/therefore.png">
 
 
 
 
 
-  <meta property="article:published_time" content="2023-08-03T23:05:27-07:00">
+  <meta property="article:published_time" content="2023-08-09T11:38:15-07:00">
 
 
 
@@ -96,7 +96,7 @@
 
   </head>
 
-  <body class="layout--single">
+  <body class="layout--single wide">
     <nav class="skip-links">
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
@@ -270,7 +270,7 @@
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Therefore">
     <meta itemprop="description" content="deterministic GPU neutron transport using one cell inversions">
-    <meta itemprop="datePublished" content="2023-08-03T23:05:27-07:00">
+    
     
 
     <div class="page__inner-wrap">
@@ -304,7 +304,21 @@
 
       <section class="page__content" itemprop="text">
         
-        
+        <p>Therefore is a deterministic testbed that couples ~higher~ order discretization schemes and two separate iteration methods for transient radiation transport to various hardware acceleration backends in a sparse linear algebra framework. We started with a full Python based implementation using Numba, SciPy and CuPy (1D, transient mono-energetic) then moved into a <code class="language-plaintext highlighter-rouge">C++</code> (energy-dependent) based implementation using Trillinos, cuSPARSE/hipSPARSE, and LAPACK.</p>
+
+<p>We have published various posters, papers, and presentations about this work at:</p>
+<ul>
+  <li>2023 <a href="https://cer.ucsd.edu/events/HEDSSS/index.html">UCSD HEDS</a> (<a href="https://github.com/jpmorgan98/MandC2023-Therefore/blob/main/poster_presentation.pptx">poster</a>)</li>
+  <li>2023 <a href="https://mc2023.com/">International ANS M&amp;C</a> (<a href="https://arxiv.org/abs/2305.13555">paper</a> &amp; <a href="https://github.com/jpmorgan98/MandC2023-Therefore/blob/main/We3T5-4-JoannaPiperMorgan.pptx">presentation</a>)</li>
+  <li>2022 <a href="https://cement-psaap.github.io/">CEMeNT</a> AST Review meeting (<a href="https://doi.org/10.5281/zenodo.7159011">poster</a>)</li>
+</ul>
+
+<p>This transient reeds problem which was solved on a GPU is an example of the type of transient transport we can do!</p>
+
+<figure class="">
+  <img src="/assets/images/td_reeds.gif" alt="" /></figure>
+
+<p>All of our code is open source and available on <a href="https://github.com/CEMeNT-PSAAP/Therefore">github</a></p>
 
         
       </section>
@@ -347,8 +361,6 @@
 
 
         
-
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2023-08-03T23:05:27-07:00">August 3, 2023</time></p>
 
 
       </footer>

@@ -8,9 +8,14 @@ categories:
 tags:
   - trt
   - variance reduction
+
+classes: wide
 ---
 
 This work was done while I was internship with Alex and Kendra Long in CCS-2 at Los Alamos National Lab. As all publications have to go through review, I leave the work to stand for itself.  I can also link to the actual presentation I gave at the annual meeting of the American Nuclear Society in June of 2022 in Anaheim, CA.
+
+{% include figure image_path="assets/images/trt.gif" %}
+
 
 We had a nuclear engineering convention between the [Southern Baptist Convention](https://www.nytimes.com/2022/06/14/us/southern-baptists-convention.html) undergoing significant reckonings and Disney Land. 
 

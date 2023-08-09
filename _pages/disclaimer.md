@@ -30,6 +30,6 @@ They are not enabled or allowed! But this is listed for completeness. The owner 
 * Comments containing hate speech, credible threats, or direct attacks on an individual or group.
 The owner is not responsible for the content in comments.
 
-This disclaimer is subject to change at anytime.
+This disclaimer is subject to change at anytime. (I is used in conjunction with "the owner" to mean the same person)
 
 I think that should cover it!

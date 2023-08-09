@@ -28,24 +28,26 @@ header:
 excerpt: >
   I'm a nuclear and mechanical engineering grad student who likes a good pun<br />
 
+
+# images must be 5x3!!!!
 feature_row:
-  - image_path: /assets/images/trt.gif
-    image_url: /assets/images/trt.gif
+  - image_path: /assets/images/trt_cover.png
+    image_url: /assets/images/trt_cover.png
     alt: "trt"
     title: "Flocking A"
     excerpt: "variance reduction for the thermal radiation transport monte carlo"
     url: "/work/trt"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/reeds.png
-    alt: "PBJ Deterministic Neutron Transport"
-    title: "PBJ Deterministic Neutron Transport"
+  - image_path: /assets/images/therefore.png
+    alt: "Deterministic GPU Neutron Transport"
+    title: "Deterministic GPU Neutron Transport"
     excerpt: "cell-wise parallel block Jacobi iterative method to solve the NTE"
     url: "/work/therefore"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: "/assets/images/mcdc-logo.svg"
-    alt: "Kobayashi dog leg problem"
+  - image_path: "/assets/images/mcdc_back.png"
+    alt: "mcdc logo"
     title: "Monte Carlo / Dynamic Code"
     excerpt: "the razors edge of transient neutron transport!"
     url: "/work/mcdc_a"

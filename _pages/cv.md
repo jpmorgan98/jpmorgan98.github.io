@@ -67,8 +67,8 @@ https://doi.org/10.48550/arXiv.2306.07847).
 *  J. P. Morgan, A. Long, K. Long, and K. E. Niemeyer. “Novel MC TRT Method: Vectorizable Variance Reduction for Energy Spectra.” In *Transactions of the American Nuclear Society*, volume 126, p. 276–278. American Nuclear Society, Anaheim, CA (2022). DOI: [10.5281/zenodo.6643659](https://doi.org/10.5281/zenodo.6643659).
 
 ## Conference Attendance
-* August 2023, International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering, Niagara Falls, ON, Canada*
-* July 2022, Scientific Computing in Python, Austin, TX*
+* August 2023, International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering, Niagara Falls, ON, Canada \[[1](https://github.com/jpmorgan98/MandC2023-Therefore/blob/main/We3T5-4-JoannaPiperMorgan.pptx)\] \[[2](https://github.com/jpmorgan98/MandC2023-Therefore/blob/main/poster_presentation.pptx)\]*
+* July 2022, Scientific Computing in Python, Austin, TX \[[1](https://zenodo.org/record/6946791)]\*
 * June 2022 American Nuclear Society Annual Conference, Anaheim, CA (Presentation DOI: [10.2172/1821347](https://doi.org/10.2172/1821347)).
 * October 2021, Conference on Mathematics and Computational Methods Applied to Nuclear Science, Raleigh, NC \\
 <small>*presented at conference

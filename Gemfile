@@ -17,3 +17,4 @@ group :jekyll_plugins do
 end
 
 gem "font-awesome-sass", "~> 6.4.0"
+gem "webrick", "~> 1.8"

@@ -35,7 +35,7 @@ GEM
       faraday-net_http (>= 2.0, < 3.1)
       ruby2_keywords (>= 0.0.4)
     faraday-net_http (3.0.2)
-    ffi (1.15.5)
+    ffi (1.16.3)
     filesize (0.2.0)
     font-awesome-sass (6.4.0)
       sassc (~> 2.0)
@@ -276,6 +276,7 @@ GEM
     unf_ext (0.0.8.2)
     unicode-display_width (1.8.0)
     verbal_expressions (0.1.5)
+    webrick (1.8.1)
     zeitwerk (2.6.8)
 
 PLATFORMS
@@ -292,6 +293,7 @@ DEPENDENCIES
   jekyll-sitemap
   jemoji
   tzinfo-data
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.1.4

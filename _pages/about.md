@@ -12,7 +12,9 @@ I'm a grad student at Oregon State University (sco beavs!) where I will get my P
 
 My current research is in dynamic Monte Carlo neutron transport for high performance/heterogeneous compute systems enabled by Python. This research is part of the [Center for Exascale Monte Carlo Neutron Transport (CEMeNT)](https://cement-psaap.github.io/) which is funded by the NNSA, through which I will get to run computer programs on some of the largest supercomputers in the world! I also work on developing transient deterministic neutron transport algorithms for GPU computations.
 
-In addition I currently work with adding functionality to production transport codes at Los Alamos National Lab. Previously I have interned at Argonne and Thomas Jefferson National Labs where I worked on superconducting/conventional particle accelerator magnet design.
+In addition to my research at OSU I am working at Advanced Micro Devices (AMD).
+
+I have previosuly worked with adding functionality to production transport codes at Los Alamos National Lab (XCP-3 & CCS-2). Before that I have interned at Argonne and Thomas Jefferson National Labs where I worked on superconducting/conventional particle accelerator magnet design.
 
 In 2020 I graduated magna cum laude from the Oregon Institute of Technology with my B.S. in Mechanical Engineering and two minors in applied physics and applied mathematics.
 

@@ -35,7 +35,7 @@ classes: wide
         Mentor: [Kyle Niemeyer](https://niemeyer-research-group.github.io/), [Todd Palmer](https://engineering.oregonstate.edu/people/todd-palmer)\\
         Projects: [MC/DC](/_posts/mcdc_a.md), [Therefore](/work/therefore.md), [CEMeNT](https://cement-psaap.github.io/)
 
-* [Advanced Micro Devices (AMD)](https://www.amd.com/en.html) (September 2023 - May 2024)
+* [Advanced Micro Devices (AMD)](https://www.amd.com/en.html) (September 2023 - May 2024)\\
 <small> Graduate Research Intern\\
         Mentors: [Damon McDougall](), [Chris Kime]()
 

@@ -22,5 +22,3 @@ At my core I am just a big ol goober
 
 ## Academic Lineage
 My full academic lineage can be found thru my advisor's ([Kyle Niemeyer](https://niemeyer-research-group.github.io/)) [Mathematics Genealogy Project profile](https://www.mathgenealogy.org/id.php?id=180371). it's kinda fun to go snooping around and see who you can find!
-
-<small> *I have previously published under the name Jackson Porter Morgan.*

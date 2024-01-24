@@ -71,9 +71,6 @@ classes: wide
 
 ## Conference Attendance & Professional Development
 
-* April 2024, [Copper Mountain Conference on Iterative Methods (SIAM)](https://grandmaster.colorado.edu/copper/2024/), Copper Canyon, CO
-* April 2024, [Sustainable Scientific Software Conference (S<sup>3</sup>C)](https://s3c.sandia.gov/), Seattle, WA
-* January 2024, [NUWEST: NNSA-University Workshop on Exascale Simulation Technologies](https://illinois-ceesd.github.io/nuwest/), Albuquerque, NM*
 * October 2023, [Monte Carlo Summit](), University of Notre Dame
 * August 2023, [International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C Intl.)](https://mc2023.com/), Niagara Falls, ON, Canada \[[1](https://github.com/jpmorgan98/MandC2023-Therefore/blob/main/We3T5-4-JoannaPiperMorgan.pptx)\] \[[2](https://github.com/jpmorgan98/MandC2023-Therefore/blob/main/poster_presentation.pptx)\]*
 * July 2022, [Scientific Computing in Python](https://conference.scipy.org/), Austin, TX \[[1](https://zenodo.org/record/6946791)]\*

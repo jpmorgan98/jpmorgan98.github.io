@@ -37,7 +37,7 @@ classes: wide
 
 * [Advanced Micro Devices (AMD)](https://www.amd.com/en.html) (September 2023 - May 2024)\\
 <small> Graduate Research Intern\\
-        Mentors: [Damon McDougall](), [Chris Kime]()
+        Mentors: [Damon McDougall](https://www.linkedin.com/in/damon-mcdougall-726012132/), [Chris Kime](https://www.linkedin.com/in/chris-kime-070a84/)
 
 * [Los Alamos National Lab](https://www.lanl.gov/), [XCP-3](https://www.lanl.gov/org/padwp/adx/computational-physics/xcp-3-monte-carlo/index.php) (June 2022 - May 2023)\\
 <small> Graduate Research Intern\\
@@ -69,19 +69,27 @@ classes: wide
 
 *  J. P. Morgan, A. Long, K. Long, and K. E. Niemeyer. “Novel MC TRT Method: Vectorizable Variance Reduction for Energy Spectra.” In *Transactions of the American Nuclear Society*, volume 126, p. 276–278. American Nuclear Society, Anaheim, CA (2022). DOI: [10.5281/zenodo.6643659](https://doi.org/10.5281/zenodo.6643659).
 
-## Conference Attendance & Professional Devlopment
-* October 2023, Monte Carlo Summit, University of Notre Dame
-* August 2023, International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering, Niagara Falls, ON, Canada \[[1](https://github.com/jpmorgan98/MandC2023-Therefore/blob/main/We3T5-4-JoannaPiperMorgan.pptx)\] \[[2](https://github.com/jpmorgan98/MandC2023-Therefore/blob/main/poster_presentation.pptx)\]*
-* July 2022, Scientific Computing in Python, Austin, TX \[[1](https://zenodo.org/record/6946791)]\*
-* June 2022 American Nuclear Society Annual Conference, Anaheim, CA (Presentation DOI: [10.2172/1821347](https://doi.org/10.2172/1821347)).
-* October 2021, Conference on Mathematics and Computational Methods Applied to Nuclear Science, Raleigh, NC \\
+## Conference Attendance & Professional Development
+
+* April 2024, [Copper Mountain Conference on Iterative Methods (SIAM)](https://grandmaster.colorado.edu/copper/2024/), Copper Canyon, CO
+* April 2024, [Sustainable Scientific Software Conference (S<sup>3</sup>C)](https://s3c.sandia.gov/), Seattle, WA
+* January 2024, [NUWEST: NNSA-University Workshop on Exascale Simulation Technologies](https://illinois-ceesd.github.io/nuwest/), Albuquerque, NM*
+* October 2023, [Monte Carlo Summit](), University of Notre Dame
+* August 2023, [International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C Intl.)](https://mc2023.com/), Niagara Falls, ON, Canada \[[1](https://github.com/jpmorgan98/MandC2023-Therefore/blob/main/We3T5-4-JoannaPiperMorgan.pptx)\] \[[2](https://github.com/jpmorgan98/MandC2023-Therefore/blob/main/poster_presentation.pptx)\]*
+* July 2022, [Scientific Computing in Python](https://conference.scipy.org/), Austin, TX \[[1](https://zenodo.org/record/6946791)]\*
+* June 2022 [American Nuclear Society Annual Conference](https://www.ans.org/meetings/am2022/), Anaheim, CA (Presentation DOI: [10.2172/1821347](https://doi.org/10.2172/1821347)).
+* October 2021, [Conference on Mathematics and Computational Methods Applied to Nuclear Science (M&C 2021)](https://www.ans.org/meetings/mc2021/), Raleigh, NC \\
 <small>*presented at conference
 
 ## Summer Schools
 
+* [US Research Software Sustainability Institute (URSSI)](https://github.com/si2-urssi/winterschool-Jan2024), January 2024, Portland, OR\\
+<small> Hosted at Oregon State University Portland Center\\
+Attended as a teaching assistant
+
 * High Energy Density Science Summer School (HEDS), July 2023, San Diego, CA\\
 <small> Hosted at University of California San Diego
 
-* United States Particle Accelerator School (USPAS), June 2018, Albuquerque, NM\\
+* [United States Particle Accelerator School (USPAS)](https://uspas.fnal.gov/), June 2018, Albuquerque, NM\\
 <small> Course: *Fundamentals of Accelerator Physics and Technology with Simulations and Measurements Lab*\\
         Credit provided by University of New Mexico

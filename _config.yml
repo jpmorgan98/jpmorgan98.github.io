@@ -101,18 +101,18 @@ analytics:
 author:
   name             : J. Piper Morgan # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/jo.jpg"
-  bio              : "(she/her) kinda cute :3"
+  bio              : "(she/her) :3"
   location         : "Corvallis, OR"
   links:
-    - label: "linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: https://www.linkedin.com/in/jpmorgan98/
     - label: "github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jpmorgan98"
     - label: orcid
       icon: "fab fa-fw fa-orcid"
       url: https://orcid.org/0000-0003-1379-5431
+    - label: "linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/jpmorgan98/
     - label: "contact"
       icon: 'fas fa-fw fa-envelope'
       url: "mailto:joannapipermorgan@gmail.com"

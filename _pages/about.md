@@ -26,12 +26,3 @@ In my free time I like to volunteer at the historic [Whiteside Theater](https://
 ## Academic Lineage
 
 My full academic lineage can be found thru my advisor's ([Kyle Niemeyer](https://niemeyer-research-group.github.io/)) [Mathematics Genealogy Project profile](https://www.mathgenealogy.org/id.php?id=180371). It's kinda fun to go snooping around and see who you can find!
-
-## I am an out and proud trans woman
-
-Trans people out there---I'd love to hear from you!
-Shoot me an email!
-Let's get coffee!
-
-Professional colleagues---if you want, feel free to ask appropriate questions at an appropriate time, provided they are steeped in a desire to know me and my story more.
-*The golden rule always applies!*

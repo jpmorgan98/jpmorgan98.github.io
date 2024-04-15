@@ -4,6 +4,19 @@ permalink: /about/
 title: "About"
 excerpt: "She's fine? Like I guess"
 layouts_gallery:
+
+
+feature_row:
+  - image_path: /assets/images/rudy_1.png
+    image_url: /assets/images/rudy_1.png
+    alt: "ruddy and pammy 1"
+  - image_path: /assets/images/rudy_2.jpeg
+    image_url: /assets/images/rudy_2.jpeg
+    alt: "ruddy and pammy 2"
+  - image_path: /assets/images/rudy_3.jpeg
+    image_url: /assets/images/rudy_3.jpeg
+    alt: "ruddy and pammy 3"
+    
 ---
 
 My friends call me Piper or Pipes but Joanna or any nicknames derivative of that will work!
@@ -21,7 +34,7 @@ I have previously worked with adding functionality to production transport codes
 
 In my free time I like to volunteer at the historic [Whiteside Theater](https://www.whitesidetheatre.org/) in Corvallis, make a pretty good pun every now and again, and hang out with my dog Rudy (Shar-Pie Shepard mix) and my roommate's dog Pamela (German Shorthair Pointer) pictured below. Rudy was adopted from [Heartland Humane Society](https://heartlandhumane.org/) and I could not recommend them more if you're looking for a fury friend in the mid willamette valley area.
 
-{% include figure image_path="/assets/images/rudynpammy.JPEG" url="https://heartlandhumane.org/" %}
+{% include feature_row %}
 
 ## Academic Lineage
 

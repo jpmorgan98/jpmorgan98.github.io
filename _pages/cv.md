@@ -84,7 +84,7 @@ Future dates are trips I intended to go to.
 
 * April 2024, [18th Copper Mountain Conference on Iterative Methods (SIAM)](https://grandmaster.colorado.edu/copper/2024/), Copper Mountain, CO*
 
-* April 2024, [Sustainable Scientific Software Conference (S<sup>3</sup>C)](https://s3c.sandia.gov/), Seattle, WA*
+* April 2024, [Sustainable Scientific Software Conference (S<sup>3</sup>C)](https://s3c.sandia.gov/), Seattle, WA* [1](https://zenodo.org/doi/10.5281/zenodo.10961826)
 
 * January 2024, NUWEST, Albuquerque, NM [1](https://illinois-ceesd.github.io/nuwest/), [2](https://github.com/jpmorgan98/nuwest-mcdc-jpmorgan) <small> unable to attend due to weather
 

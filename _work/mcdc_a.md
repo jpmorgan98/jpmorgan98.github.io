@@ -3,7 +3,7 @@ classes: wide
 title: "A Basic Primer for Monte Carlo / Dynamic Code"
 excerpt: "the razors edge of transient neutron transport!"
 header:
-    teaser: "/assets/images/mcdc-logo.svg"
+    teaser: "/assets/images/mcdc-logo.png"
 categories:
   - Edge Case
 tags:
@@ -15,7 +15,7 @@ toc: true
 
 **Work in progress**
 
-{% include figure image_path="/assets/images/mcdc-logo.svg" url="https://github.com/CEMeNT-PSAAP/MCDC" %}
+{% include figure image_path="/assets/images/mcdc-logo.png" url="https://github.com/CEMeNT-PSAAP/MCDC" %}
 
 *Monte Carlo / Dynamic Code (MC/DC) is a portable, performant testbed for rapid transient Monte Carlo neutron transport methods development.* If your asking your self what the fuck that word garbage means and that this is why you don't talk to engineers welllllllllll............ read on. For those who that made perfect sense to our [readme](https://github.com/CEMeNT-PSAAP/MCDC) should do fine.
 

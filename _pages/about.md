@@ -32,9 +32,11 @@ In addition to my research at OSU with CEMeNT I am currently working at Advanced
 
 I have previously worked with adding functionality to production transport codes at Los Alamos National Lab (XCP-3 & CCS-2). Before that in undergrad I interned at Argonne and Thomas Jefferson National Labs where I worked on superconducting and conventional particle accelerator magnet design and optimization.
 
-In my free time I like to volunteer at the historic [Whiteside Theater](https://www.whitesidetheatre.org/) in Corvallis, make a pretty good pun every now and again, and hang out with my dog Rudy (Shar-Pie Shepard mix) and my roommate's dog Pamela (German Shorthair Pointer) pictured below. Rudy was adopted from [Heartland Humane Society](https://heartlandhumane.org/) and I could not recommend them more if you're looking for a fury friend in the mid willamette valley area.
+In my free time I like to volunteer at the historic [Whiteside Theater](https://www.whitesidetheatre.org/) in Corvallis, make a pretty good pun every now and again, and hang out with my dog Rudy (Shar-Pie Shepard mix) and my roommate's dog Pamela (German Shorthair Pointer) pictured below.
 
 {% include feature_row %}
+
+ Rudy was adopted from [Heartland Humane Society](https://heartlandhumane.org/) and I could not recommend them more if you're looking for a fury friend in the mid willamette valley area.
 
 ## Academic Lineage
 

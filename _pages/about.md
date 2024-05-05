@@ -28,9 +28,9 @@ My current research is in dynamic Monte Carlo neutron transport for high perform
 The common thread in my work is how to solve radiation transport problems (neutrons, photons, and neutrinos) on modern HPC architectures full of interesting heterogeneous architectures and occasionally bespoke hardware accelerators.
 My work sits somewhere in between numerical methods, neutral particle transport phenomena, sustainable scientific software development, and exaclass (really big) high performance computing research. Hopefully that word salad means something to you
 
-In addition to my research at OSU with CEMeNT I am currently working at Advanced Micro Devices (AMD).
+In addition to my research at OSU with CEMeNT I am currently working 
 
-I have previously worked with adding functionality to production transport codes at Los Alamos National Lab (XCP-3 & CCS-2). Before that in undergrad I interned at Argonne and Thomas Jefferson National Labs where I worked on superconducting and conventional particle accelerator magnet design and optimization.
+While in grad school I have worked at Advanced Micro Devices (AMD) in Data Center GPU solutions, and Los Alamos National Lab (XCP-3 & CCS-2) adding functionality to production transport codes. Before that in undergrad I interned at Argonne and Thomas Jefferson National Labs where I worked on superconducting and conventional particle accelerator magnet design and optimization.
 
 In my free time I like to volunteer at the historic [Whiteside Theater](https://www.whitesidetheatre.org/) in Corvallis, make a pretty good pun every now and again, and hang out with my dog Rudy (Shar-Pie Shepard mix) and my roommate's dog Pamela (German Shorthair Pointer) pictured below.
 

@@ -36,7 +36,7 @@ classes: wide
         Projects: [MC/DC](/_posts/mcdc_a.md), [Therefore](/work/therefore.md), 
 
 * [Advanced Micro Devices (AMD)](https://www.amd.com/en.html) (September 2023 - May 2024)\\
-<small> Co/Op Intern\\
+<small> Co/Op Intern: PhD Technical; Platform Solutions \\
         Mentors: [Damon McDougall](https://www.linkedin.com/in/damon-mcdougall-726012132/), [Chris Kime](https://www.linkedin.com/in/chris-kime-070a84/)
 
 * [Los Alamos National Lab](https://www.lanl.gov/), [XCP-3](https://www.lanl.gov/org/padwp/adx/computational-physics/xcp-3-monte-carlo/index.php) (June 2022 - May 2023)\\

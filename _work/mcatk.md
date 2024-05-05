@@ -17,5 +17,4 @@ Just as a brief introduction: Monte Carlo Application Toolkit or MCATK is availa
 
 The paper was written for the International conference on Math & Comp in Niagara Falls, ON, Can.
 * [preprint of the paper](https://doi.org/10.48550/arXiv.2306.07847)
-* formal paywalled article will bw linked
-* poster presentation will be linked
+* [poster presentation](https://zenodo.org/doi/10.5281/zenodo.10511912)

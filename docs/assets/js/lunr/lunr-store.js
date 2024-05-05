@@ -12,7 +12,7 @@ var store = [{
         "teaser": "/assets/images/mcdc-logo.png"
       },{
         "title": "My work in Monte Carlo / Dynamic Code",
-        "excerpt":"A little more technical explications of some of the undergoing work I are doing in Monte Carlo/ Dynamic Code associated with our first formal release paper! My work in MC/DC has been published and presented at: 2024 SciPy 2024 S3C (presentation) 2024 NUWEST (presentation) 2023 International Meeting of M&amp;C (paper,...","categories": ["Edge Case"],
+        "excerpt":"A little more technical explications of some of the undergoing work I are doing in Monte Carlo/ Dynamic Code associated with our first formal release paper! My work in MC/DC has been published and presented at: 2024 SciPy 2024 S3C (presentation) 2024 Journal of Open Source Software (paper) 2024 NUWEST...","categories": ["Edge Case"],
         "tags": ["mcdc","my work"],
         "url": "/work/mcdc_b/",
         "teaser": "/assets/images/speedup.png"

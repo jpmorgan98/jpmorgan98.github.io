@@ -63,7 +63,7 @@ classes: wide
 
 * J. P. Morgan, I. Variansyah, S. Pasmann, K. B. Clements, B. Cuneo, A. Mote, C. Shaw, J. Northrop, R. Pankaj, E. Lame, B. Whewell, R. McClarren, T. Palmer, L. Chen, D. Anistratov, C. T. Kelley, C. Palmer, and K. E. Niemeyer. (2024) Monte Carlo / Dynamic Code (MC/DC): An accelerated Python package for fully transient neutron transport and rapid methods development. Accepted *Journal of Open Source Software*. **9(96)**, 6415. DOI [10.21105/joss.06415]( https://doi.org/10.21105/joss.06415).
 
-* J. P. Morgan, A. Mote, S. Pasmann, G. Ridley, T. S. Palmer, K. E. Niemeyer, R. G. McClarren. The Monte Carlo Computational Summit -- October 25 & 26, 2023 -- Notre Dame, Indiana, USA. Accepted *Journal of Computational and Theoretical Transport*. Preprint DOI [10.48550/arXiv.2402.08161](https://doi.org/10.48550/arXiv.2402.08161)
+* J. P. Morgan, A. Mote, S. Pasmann, G. Ridley, T. S. Palmer, K. E. Niemeyer, R. G. McClarren. The Monte Carlo Computational Summit -- October 25 & 26, 2023 -- Notre Dame, Indiana, USA. *Journal of Computational and Theoretical Transport*. DOI [10.1080/23324309.2024.2354401](https://doi.org/10.1080/23324309.2024.2354401) Preprint DOI [10.48550/arXiv.2402.08161](https://doi.org/10.48550/arXiv.2402.08161)
 
 * J. P. Morgan, I. Variansyah, T. S. Palmer, and K. E. Niemeyer. (2023). “Exploring One-Cell Inversion Method for Transient Transport on GPU.” In *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering*. Niagara Falls, Ontario, Canada DOI: [10.48550/arXiv:2305.13555](https://doi.org/10.48550/arXiv.2305.13555).
 

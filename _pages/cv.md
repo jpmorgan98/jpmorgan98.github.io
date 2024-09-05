@@ -61,23 +61,33 @@ classes: wide
 
 ## Journal Publications
 
-* J. P. Morgan, I. Variansyah, B. Cuneo, T. S. Palmer, and K. E. Niemeyer. (2024) Performant and Portable Monte Carlo Neutron Transport via Numba. **Submitted to** *IEEE Computing in Science and Engineering*.
+* **J. P. Morgan**, I. Variansyah, S. Pasmann, K. B. Clements, B. Cuneo, A. Mote, C. Shaw, J. Northrop, R. Pankaj, E. Lame, B. Whewell, R. McClarren, T. Palmer, L. Chen, D. Anistratov, C. T. Kelley, C. Palmer, and K. E. Niemeyer. (2024) Monte Carlo / Dynamic Code (MC/DC): An accelerated Python package for fully transient neutron transport and rapid methods development. *Journal of Open Source Software*. **9(96)**, 6415. DOI [10.21105/joss.06415]( https://doi.org/10.21105/joss.06415).
 
-* J. P. Morgan, I. Variansyah, S. Pasmann, K. B. Clements, B. Cuneo, A. Mote, C. Shaw, J. Northrop, R. Pankaj, E. Lame, B. Whewell, R. McClarren, T. Palmer, L. Chen, D. Anistratov, C. T. Kelley, C. Palmer, and K. E. Niemeyer. (2024) Monte Carlo / Dynamic Code (MC/DC): An accelerated Python package for fully transient neutron transport and rapid methods development. *Journal of Open Source Software*. **9(96)**, 6415. DOI [10.21105/joss.06415]( https://doi.org/10.21105/joss.06415).
+* **J. P. Morgan**, A. Mote, S. Pasmann, G. Ridley, T. S. Palmer, K. E. Niemeyer, R. G. McClarren. The Monte Carlo Computational Summit -- October 25 & 26, 2023 -- Notre Dame, Indiana, USA. *Journal of Computational and Theoretical Transport*. DOI [10.1080/23324309.2024.2354401](https://doi.org/10.1080/23324309.2024.2354401) Preprint DOI [10.48550/arXiv.2402.08161](https://doi.org/10.48550/arXiv.2402.08161).
 
-* J. P. Morgan, A. Mote, S. Pasmann, G. Ridley, T. S. Palmer, K. E. Niemeyer, R. G. McClarren. The Monte Carlo Computational Summit -- October 25 & 26, 2023 -- Notre Dame, Indiana, USA. *Journal of Computational and Theoretical Transport*. DOI [10.1080/23324309.2024.2354401](https://doi.org/10.1080/23324309.2024.2354401) Preprint DOI [10.48550/arXiv.2402.08161](https://doi.org/10.48550/arXiv.2402.08161).
+## Conference and Other Publications (Peer Reviewed)
 
-## Conference and Other Publications
+* **J. P. Morgan**, I. Variansyah, T. S. Palmer, and K. E. Niemeyer. (2023). “Exploring One-Cell Inversion Method for Transient Transport on GPU.” In *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering*. Niagara Falls, Ontario, Canada DOI: [10.48550/arXiv:2305.13555](https://doi.org/10.48550/arXiv.2305.13555).
 
-* J. P. Morgan, I. Variansyah, T. S. Palmer, and K. E. Niemeyer. (2023). “Exploring One-Cell Inversion Method for Transient Transport on GPU.” In *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering*. Niagara Falls, Ontario, Canada DOI: [10.48550/arXiv:2305.13555](https://doi.org/10.48550/arXiv.2305.13555).
+* **J. P. Morgan**, T. J. Trahan, T. P. Burke, C. J. Josey, and K. E. Niemeyer. (2023). “Hybrid-Delta Tracking on a Structured Mesh in MCATK.” In *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering*. Niagara Falls, Ontario, Canada. DOI: [10.48550/arXiv.2306.07847](https://doi.org/10.48550/arXiv.2306.07847).
 
-* J. P. Morgan, T. J. Trahan, T. P. Burke, C. J. Josey, and K. E. Niemeyer. (2023). “Hybrid-Delta Tracking on a Structured Mesh in MCATK.” In *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering*. Niagara Falls, Ontario, Canada. DOI: [10.48550/arXiv.2306.07847](https://doi.org/10.48550/arXiv.2306.07847).
+* I. Variansyah, **J. P. Morgan**, J. Northrop, K. E. Niemeyer, and R. G. McClarren. (2023). “Development of MC/DC: a performant, scalable, and portable Python-based Monte Carlo neutron transport code.” In *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering*. Niagara Falls, Ontario, Canada. DOI: [10.48550/arXiv:2305.07636](https://doi.org/10.48550/arXiv.2305.07636).
 
-* I. Variansyah, J. P. Morgan, J. Northrop, K. E. Niemeyer, and R. G. McClarren. (2023). “Development of MC/DC: a performant, scalable, and portable Python-based Monte Carlo neutron transport code.” In *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering*. Niagara Falls, Ontario, Canada. DOI: [10.48550/arXiv:2305.07636](https://doi.org/10.48550/arXiv.2305.07636).
+* **J. P. Morgan**, T. S. Palmer, and K. E. Niemeyer. (2022). “Automatic Hardware Code Generation for Neutron Transport Applications.” In *Transactions of the American Nuclear Society*, **volume 126**, p. 318–320. American Nuclear Society, Anaheim, CA. Preprint DOI: [10.5281/zenodo.6646813](https://doi.org/10.5281/zenodo.6646813) DOI: [10.13182/T126-38137](https://doi.org/10.13182/T126-38137).
 
-* J. P. Morgan, T. S. Palmer, and K. E. Niemeyer. (2022). “Automatic Hardware Code Generation for Neutron Transport Applications.” In *Transactions of the American Nuclear Society*, **volume 126**, p. 318–320. American Nuclear Society, Anaheim, CA. Preprint DOI: [10.5281/zenodo.6646813](https://doi.org/10.5281/zenodo.6646813) DOI: [10.13182/T126-38137](https://doi.org/10.13182/T126-38137).
+*  **J. P. Morgan**, A. Long, K. Long, and K. E. Niemeyer. (2022). “Novel MC TRT Method: Vectorizable Variance Reduction for Energy Spectra.” In *Transactions of the American Nuclear Society*, **volume 126**, p. 276–278. American Nuclear Society, Anaheim, CA. Preprint DOI: [10.5281/zenodo.6643659](https://doi.org/10.5281/zenodo.6643659). DOI [10.13182/T126-38066](https://doi.org/10.13182/T126-38066).
 
-*  J. P. Morgan, A. Long, K. Long, and K. E. Niemeyer. (2022). “Novel MC TRT Method: Vectorizable Variance Reduction for Energy Spectra.” In *Transactions of the American Nuclear Society*, **volume 126**, p. 276–278. American Nuclear Society, Anaheim, CA. Preprint DOI: [10.5281/zenodo.6643659](https://doi.org/10.5281/zenodo.6643659). DOI [10.13182/T126-38066](https://doi.org/10.13182/T126-38066).
+
+## Upcoming Publications
+
+* **J. P. Morgan**, I. Variansyah, B. Cuneo, T. S. Palmer, and K. E. Niemeyer. (2024) Performant and Portable Monte Carlo Neutron Transport via Numba. **in review**
+
+* **J. P. Morgan**, B. Cuneo, K. E. Niemeyer. Performance analysis of MC/DC on GPUs for transient problems. **in preparation**
+
+* **J. P. Morgan**, I. Variansyah, T. S. Palmer, and K. E. Niemeyer. One-cell inversions on modern GPUs for transient transport with higher order discretization. **in preparation**
+
+* **J. P. Morgan**, I. Variansyah, T. S. Palmer, and K. E. Niemeyer. A numerical acceleration scheme for One-cell inversions in the thin limit. **in preparation**
+
 
 ## Conference Attendance & Professional Development
 Future dates are trips I intended to go to.

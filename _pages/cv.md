@@ -6,6 +6,9 @@ classes: wide
 # toc: true
 ---
 
+**I am currently looking for employment starting in July/August of 2025**
+{: .notice--success}
+
 [a full pdf copy of my *cv* can be found here](/assets/docs/cv.pdf)
 
 ## Education
@@ -85,8 +88,6 @@ classes: wide
 * **J. P. Morgan**, B. Cuneo, K. E. Niemeyer. Performance analysis of MC/DC on GPUs for transient problems. **in preparation**
 
 * **J. P. Morgan**, I. Variansyah, T. S. Palmer, and K. E. Niemeyer. One-cell inversions on modern GPUs for transient transport with higher order discretization. **in preparation**
-
-* **J. P. Morgan**, I. Variansyah, T. S. Palmer, and K. E. Niemeyer. A numerical acceleration scheme for One-cell inversions in the thin limit. **in preparation**
 
 
 ## Conference Attendance & Professional Development

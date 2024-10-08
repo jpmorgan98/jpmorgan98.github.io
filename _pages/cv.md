@@ -15,20 +15,21 @@ classes: wide
 
 * PhD Mechanical Engineering  (Expected Graduation June 2025) \\
 <small> [Oregon State University](https://oregonstate.edu/), [School of MIME](https://engineering.oregonstate.edu/MIME)\\
-        Emphasis: Thermal Fluid Sciences\\
+        Emphasis: Thermal Fluid Sciences,
         Major Advisor: [Kyle E. Niemeyer](https://niemeyer-research-group.github.io/)\\
-        Minor: Nuclear Engineering\\
-        Minor Advisor: [Todd S. Palmer](https://engineering.oregonstate.edu/people/todd-palmer)
+        Minor: Nuclear Engineering, 
+        Minor Advisor: [Todd S. Palmer](https://engineering.oregonstate.edu/people/todd-palmer) \\
+        Perspective dissertation title: *On algorithms and software engineering schemes for radiation transport on heterogeneous compute architectures*
 
-* MS Mechanical Engineering (Dec 2022)\\
+* MS Mechanical Engineering (December 2022)\\
 <small> [Oregon State University](https://oregonstate.edu/), [School of Mechanical, Industrial, and Manufacturing Engineering](https://engineering.oregonstate.edu/MIME)\\
-        Emphasis: Thermal Fluid Sciences\\
+        Emphasis: Thermal Fluid Sciences, 
         Major Advisor: [Kyle E. Niemeyer](https://niemeyer-research-group.github.io/)\\
         Project Report: [Explorations of Monte Carlo Solution and Implementation Methods for Thermal Radiation and Neutron Transport](/assets/docs/masters.pdf)
 
 * BS Mechanical Engineering (June 2020)\\
 <small> [Oregon Institute of Technology](https://www.oit.edu/), [MMET Dept.](https://www.oit.edu/academics/engineering-technology-management/mmet)\\
-        *magna cum laude*\\
+        *magna cum laude* 
         Minors: Applied Physics, Applied Mathematics
 
 ## Research Experience
@@ -55,12 +56,12 @@ classes: wide
 * Argonne National Lab, Physics Division (June 2019 - September 2019)\\
 <small> [Lee Teng Undergraduate Fellow](https://www.anl.gov/aai/lee-teng-internship)\\
         Mentor: [Brahim Mustapha](https://www.anl.gov/profile/brahim-mustapha)\\
-        Project: [cancer radio therapy x-y scanner magnet optimization](https://indico.fnal.gov/event/21420/session/4/material/3/0.pdf)
+        Project: Cancer radio therapy x-y scanner magnet optimization
 
 * [Jefferson National Accelerator Facility](https://www.jlab.org/), Magnet Group (June 2018 - August 2018)\\
 <small> [Science Undergraduate Laboratory Intern (SULI)](https://science.osti.gov/wdts/suli)\\
         Mentor: Renuka Rajput-Goshal\\
-        Project: [Super conducting quadrupole magnet optimization](https://education.jlab.org/ugresearch/18-13.html)
+        Project: Super conducting quadrupole magnet optimization
 
 ## Journal Publications
 
@@ -68,7 +69,7 @@ classes: wide
 
 * **J. P. Morgan**, A. Mote, S. Pasmann, G. Ridley, T. S. Palmer, K. E. Niemeyer, R. G. McClarren. The Monte Carlo Computational Summit -- October 25 & 26, 2023 -- Notre Dame, Indiana, USA. *Journal of Computational and Theoretical Transport*. DOI [10.1080/23324309.2024.2354401](https://doi.org/10.1080/23324309.2024.2354401) Preprint DOI [10.48550/arXiv.2402.08161](https://doi.org/10.48550/arXiv.2402.08161).
 
-## Conference and Other Publications (Peer Reviewed)
+## Conference and Other Publications
 
 * **J. P. Morgan**, I. Variansyah, T. S. Palmer, and K. E. Niemeyer. (2023). “Exploring One-Cell Inversion Method for Transient Transport on GPU.” In *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering*. Niagara Falls, Ontario, Canada DOI: [10.48550/arXiv:2305.13555](https://doi.org/10.48550/arXiv.2305.13555).
 
@@ -90,7 +91,7 @@ classes: wide
 * **J. P. Morgan**, I. Variansyah, T. S. Palmer, and K. E. Niemeyer. One-cell inversions on modern GPUs for transient transport with higher order discretization. **in preparation**
 
 
-## Conference Attendance & Professional Development
+## Conferences & Professional Development
 Future dates are trips I intended to go to.
 
 * May 2025, [International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (M&C 2025)](https://www.ans.org/meetings/mc2025/), Denver, CO
@@ -105,9 +106,14 @@ Future dates are trips I intended to go to.
 
 * January 2024, NUWEST, Albuquerque, NM [1](https://illinois-ceesd.github.io/nuwest/), [2](https://github.com/jpmorgan98/nuwest-mcdc-jpmorgan) <small> unable to attend due to weather
 
+* January 2024, [US Research Software Sustainability Institute (URSSI)](https://github.com/si2-urssi/winterschool-Jan2024), Portland, OR\\
+
 * October 2023, Monte Carlo Summit, University of Notre Dame, South Bend, IN
 
 * August 2023, [International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C Intl.)](https://mc2023.com/), Niagara Falls, ON, Canada \[[1](https://github.com/jpmorgan98/MandC2023-Therefore/blob/main/We3T5-4-JoannaPiperMorgan.pptx)\] \[[2](https://github.com/jpmorgan98/MandC2023-Therefore/blob/main/poster_presentation.pptx)\]*
+
+* July 2023, High Energy Density Science Summer School (HEDS), San Diego, CA\\
+<small> Hosted at University of California San Diego
 
 * July 2022, [Scientific Computing in Python](https://conference.scipy.org/), Austin, TX \[[1](https://zenodo.org/record/6946791)]\*
 
@@ -116,15 +122,6 @@ Future dates are trips I intended to go to.
 * October 2021, [Conference on Mathematics and Computational Methods Applied to Nuclear Science (M&C 2021)](https://www.ans.org/meetings/mc2021/), Raleigh, NC \\
 <small>*presented at conference
 
-## Summer Schools
-
-* [US Research Software Sustainability Institute (URSSI)](https://github.com/si2-urssi/winterschool-Jan2024), January 2024, Portland, OR\\
-<small> Hosted at Oregon State University Portland Center\\
-Attended as a teaching assistant
-
-* High Energy Density Science Summer School (HEDS), July 2023, San Diego, CA\\
-<small> Hosted at University of California San Diego
-
-* [United States Particle Accelerator School (USPAS)](https://uspas.fnal.gov/), June 2018, Albuquerque, NM\\
+* June 2018, [United States Particle Accelerator School (USPAS)](https://uspas.fnal.gov/), Albuquerque, NM\\
 <small> Course: *Fundamentals of Accelerator Physics and Technology with Simulations and Measurements Lab*\\
         Credit provided by University of New Mexico

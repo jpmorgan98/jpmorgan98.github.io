@@ -33,7 +33,8 @@ My work sits somewhere in between numerical methods, neutral particle transport 
 
 While in grad school I have worked at Advanced Micro Devices (AMD) in Data Center GPU solutions, and Los Alamos National Lab (XCP-3 & CCS-2) adding functionality to production radiation transport codes. Before that in undergrad I interned at Argonne and Thomas Jefferson National Labs where I worked on superconducting and conventional particle accelerator magnet design and optimization.
 
-In my free time I like to volunteer at the historic [Whiteside Theater](https://www.whitesidetheatre.org/) in Corvallis, make a pretty good pun every now and again, and hang out with my dog Rudy (Shar-Pie Shepherd mix of some kind) and my roommate's dog Pamela (German Shorthair Pointer) pictured below.
+In my free time I like to volunteer at the historic [Whiteside Theater](https://www.whitesidetheatre.org/) in Corvallis, make a pretty good pun every now and again, and hang out with my dog Rudy (Pitt Bull, Shar-Pie, Super Mutt mix) and my roommate's dog Pamela (German Shorthair Pointer) pictured below.
+Rudy actually did a DNA test to figure out some of this stuff. [You can see his results here](https://embk.me/rudy2044)
 
 {% include feature_row %}
 

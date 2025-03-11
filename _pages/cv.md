@@ -65,6 +65,8 @@ classes: wide
 
 ## Journal Publications
 
+* **J. P. Morgan**, I. Variansyah, B. Cuneo, T. S. Palmer, and K. E. Niemeyer. (2025) Performant and Portable Monte Carlo Neutron Transport via Numba. *Computing in Science and Engineering (IEEE)* Preprint DOI [10.48550/arXiv.2409.04668](https://arxiv.org/abs/2409.04668). DOI []()
+
 * **J. P. Morgan**, I. Variansyah, S. Pasmann, K. B. Clements, B. Cuneo, A. Mote, C. Shaw, J. Northrop, R. Pankaj, E. Lame, B. Whewell, R. McClarren, T. Palmer, L. Chen, D. Anistratov, C. T. Kelley, C. Palmer, and K. E. Niemeyer. (2024) Monte Carlo / Dynamic Code (MC/DC): An accelerated Python package for fully transient neutron transport and rapid methods development. *Journal of Open Source Software*. **9(96)**, 6415. DOI [10.21105/joss.06415]( https://doi.org/10.21105/joss.06415).
 
 * **J. P. Morgan**, A. Mote, S. Pasmann, G. Ridley, T. S. Palmer, K. E. Niemeyer, R. G. McClarren. The Monte Carlo Computational Summit -- October 25 & 26, 2023 -- Notre Dame, Indiana, USA. *Journal of Computational and Theoretical Transport*. DOI [10.1080/23324309.2024.2354401](https://doi.org/10.1080/23324309.2024.2354401) Preprint DOI [10.48550/arXiv.2402.08161](https://doi.org/10.48550/arXiv.2402.08161).
@@ -87,14 +89,16 @@ classes: wide
 
 ## Upcoming Publications
 
-* **J. P. Morgan**, I. Variansyah, B. Cuneo, T. S. Palmer, and K. E. Niemeyer. Performant and Portable Monte Carlo Neutron Transport via Numba. **under review** Pre-peer-review Preprint DOI [10.48550/arXiv.2409.04668](https://arxiv.org/abs/2409.04668)
+* **J. P. Morgan**, I. Variansyah, T. S. Palmer, and K. E. Niemeyer. One-cell inversions on modern GPUs for transient transport with higher-order discretization. **under review** Pre-peer-review Preprint DOI [10.48550/arXiv.2409.04668](https://arxiv.org/abs/2409.04668).
 
-* **J. P. Morgan**, I. Variansyah, T. S. Palmer, and K. E. Niemeyer. One-cell inversions on modern GPUs for transient transport with higher order discretization. **in preparation**
+* M. Derman, **J. P. Morgan**, K. E. Niemeyer, T. S. Palmer. Unnamed paper on complex eigenvalue decomposition. **in preparation**
 
 ## Conferences & Professional Development
 Future dates are events I intended to go to.
 
-* May 2025, [International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (M&C 2025)](https://www.ans.org/meetings/mc2025/), Denver, CO
+* May 2025, [International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (M&C 2025)](https://www.ans.org/meetings/mc2025/), Denver, CO*
+
+* February 2025, [AMD Tools Development Workshop](https://www.cs.uoregon.edu/AMD-event-2025/), University of Oregon, Eugene, OR
 
 * July 2024, [SciPy](https://www.scipy2024.scipy.org/), Tacoma, WA*
 

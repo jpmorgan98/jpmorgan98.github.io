@@ -7,7 +7,7 @@ class: wide
 author: true
 
 header:
-  overlay_color: "#e38a0e"
+  overlay_color: "#4090C4" ##e38a0e
   overlay_image: /assets/images/title.png 
   actions:
     - label: "<i class='fab fa-fw fa-github'></i> github"

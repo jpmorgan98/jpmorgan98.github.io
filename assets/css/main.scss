@@ -46,6 +46,19 @@ html {
     }
   }
 
+// sets the teaser images to square
+.archive {
+    .archive__item-teaser {
+      @include breakpoint($small) {
+        max-height: 200px;
+      }
+  
+      @include breakpoint($medium) {
+        max-height: 200px;
+      }
+    }
+  }
+
 /*
 .page__lead {
     font-family: $global-font-family;

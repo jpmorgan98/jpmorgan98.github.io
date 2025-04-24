@@ -26,7 +26,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "false" # false (default), "disqus", "discourse", "facebook", "staticman_v2", "staticman", "utterances", "giscus", "custom"
+  provider               : "discourse" # false (default), "disqus", "discourse", "facebook", "staticman_v2", "staticman", "utterances", "giscus", "custom"
   disqus:
     shortname            :
   discourse:
@@ -110,8 +110,11 @@ author:
     - label: orcid
       icon: "fab fa-fw fa-orcid"
       url: https://orcid.org/0000-0003-1379-5431
+    - label: "google scholar"
+      icon: "fa fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=AtZDfnAAAAAJ&hl=en&oi=ao"
     - label: "linkedin"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-linkedin"
       url: https://www.linkedin.com/in/jpmorgan98/
     - label: "contact"
       icon: 'fas fa-fw fa-envelope'

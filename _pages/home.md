@@ -18,6 +18,8 @@ header:
       url: https://orcid.org/0000-0003-1379-5431
     - label: "linked<i class='fab fa-fw fa-linkedin'></i>"
       url: https://www.linkedin.com/in/jpmorgan98/
+    - label: "<i class='fa fa-graduation-cap'></i> google scholar"
+      url: https://scholar.google.com/citations?user=AtZDfnAAAAAJ&hl=en&oi=ao
 
 #<i class='fa-brands fa-orcid'></i>
 #- label: "<i class='fas fa-fw fa-envelope-square'></i> contact"
@@ -56,9 +58,6 @@ feature_row:
 
 
 ---
-
-**I am currently looking for employment starting in July/August of 2025**
-{: .notice--success}
 
 Welcome to my professional website. Feel free to click around look at some of my projects, cv, or whatever floats your boat! If you feel inclined to reach out (e.g. academic discussions, just wanna say hi, etc.) please don't hesitate to shoot me an email at [joannapipermorgan@gmail.com](mailto:joannapipermorgan@gmail.com).
 

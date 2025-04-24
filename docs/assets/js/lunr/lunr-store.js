@@ -3,7 +3,7 @@ var store = [{
         "excerpt":"This work was done in conjunction with Los Alamos National Lab. This time with Travis Trahan, Tim Burke, and Collin Josey. As with flocking a, my editorialization must be limited to what is in the paper itself in order to spare myself the bureaucratic hassle of filing this dumb stuff...","categories": ["my work"],
         "tags": ["monte carlo","variance reduction","neutron transport"],
         "url": "/work/mcatk/",
-        "teaser": "/assets/images/mcatk.png"
+        "teaser": "/assets/images/mcatk_teaser.png"
       },{
         "title": "A Basic Primer for Monte Carlo / Dynamic Code",
         "excerpt":"Work in progress Monte Carlo / Dynamic Code (MC/DC) is a portable, performant testbed for rapid transient Monte Carlo neutron transport methods development. If your asking your self what the fuck that word garbage means and that this is why you don’t talk to engineers welllllllllll………… read on. For those...","categories": ["Edge Case"],

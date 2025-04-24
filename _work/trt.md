@@ -9,7 +9,8 @@ tags:
   - trt
   - variance reduction
 
-classes: wide
+
+last_modified_at: 2021-01-15
 ---
 
 This work was done while I was internship with Alex and Kendra Long in CCS-2 at Los Alamos National Lab. As all publications have to go through review, I leave the work to stand for itself.  I can also link to the actual presentation I gave at the annual meeting of the American Nuclear Society in June of 2022 in Anaheim, CA.

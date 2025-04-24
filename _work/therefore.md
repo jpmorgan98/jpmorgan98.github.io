@@ -12,6 +12,8 @@ tags:
   - neutron transport
 
 classes: wide
+
+last_modified_at: 2023-04-15
 ---
 
 Therefore is a deterministic testbed that couples ~higher~ order discretization schemes and two separate iteration methods for transient radiation transport to various hardware acceleration backends in a sparse linear algebra framework. We started with a full Python based implementation using Numba, SciPy and CuPy (1D, transient mono-energetic) then moved into a `C++` (energy-dependent) based implementation using cuSOLVER, hipSOLVER, and LAPACK.

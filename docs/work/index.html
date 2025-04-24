@@ -124,6 +124,8 @@
               <a href="/about/">about</a>
             </li><li class="masthead__menu-item">
               <a href="/work/">work</a>
+            </li><li class="masthead__menu-item">
+              <a href="/codes/">software</a>
             </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">
@@ -190,7 +192,11 @@
           
         
           
-            <li><a href="https://www.linkedin.com/in/jpmorgan98/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">linkedin</span></a></li>
+            <li><a href="https://scholar.google.com/citations?user=AtZDfnAAAAAJ&hl=en&oi=ao" rel="nofollow noopener noreferrer"><i class="fa fa-graduation-cap" aria-hidden="true"></i><span class="label">google scholar</span></a></li>
+          
+        
+          
+            <li><a href="https://www.linkedin.com/in/jpmorgan98/" rel="nofollow noopener noreferrer"><i class="fab fa-linkedin" aria-hidden="true"></i><span class="label">linkedin</span></a></li>
           
         
           
@@ -284,7 +290,7 @@
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     
       <div class="archive__item-teaser">
-        <img src="/assets/images/mcatk.png" alt="">
+        <img src="/assets/images/mcatk_teaser.png" alt="">
       </div>
     
     <h2 class="archive__item-title no_toc" itemprop="headline">
@@ -307,7 +313,7 @@
       <span class="page__meta-readtime">
         <i class="far fa-clock" aria-hidden="true"></i>
         
-          less than 1 minute read
+          1 minute read
         
       </span>
     
@@ -541,6 +547,25 @@
 
 
 
+
+<!--Following is needed for LATEX operability on this site-->
+
+<script type="text/javascript" async
+	src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<script type="text/x-mathjax-config">
+   MathJax.Hub.Config({
+     extensions: ["tex2jax.js"],
+     jax: ["input/TeX", "output/HTML-CSS"],
+     tex2jax: {
+       inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+       displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+       processEscapes: true
+     },
+     "HTML-CSS": { availableFonts: ["TeX"] }
+   });
+</script>
 
 
   </body>

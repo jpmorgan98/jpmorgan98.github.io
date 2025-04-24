@@ -6,9 +6,6 @@ classes: wide
 # toc: true
 ---
 
-**I am currently looking for employment starting in July/August of 2025**
-{: .notice--success}
-
 [a full pdf copy of my *cv* can be found here](/assets/docs/cv.pdf)
 
 ## Education
@@ -65,7 +62,7 @@ classes: wide
 
 ## Journal Publications
 
-* **J. P. Morgan**, I. Variansyah, B. Cuneo, T. S. Palmer, and K. E. Niemeyer. (2025) Performant and Portable Monte Carlo Neutron Transport via Numba. *Computing in Science and Engineering (IEEE)* Preprint DOI [10.48550/arXiv.2409.04668](https://arxiv.org/abs/2409.04668). DOI []()
+* **J. P. Morgan**, I. Variansyah, B. Cuneo, T. S. Palmer, and K. E. Niemeyer. (2025) Performant and Portable Monte Carlo Neutron Transport via Numba. *Computing in Science and Engineering (IEEE)* Preprint DOI [10.48550/arXiv.2409.04668](https://arxiv.org/abs/2409.04668). DOI [10.1109/MCSE.2025.3550863](https://doi.org/10.1109/MCSE.2025.3550863).
 
 * **J. P. Morgan**, I. Variansyah, S. Pasmann, K. B. Clements, B. Cuneo, A. Mote, C. Shaw, J. Northrop, R. Pankaj, E. Lame, B. Whewell, R. McClarren, T. Palmer, L. Chen, D. Anistratov, C. T. Kelley, C. Palmer, and K. E. Niemeyer. (2024) Monte Carlo / Dynamic Code (MC/DC): An accelerated Python package for fully transient neutron transport and rapid methods development. *Journal of Open Source Software*. **9(96)**, 6415. DOI [10.21105/joss.06415]( https://doi.org/10.21105/joss.06415).
 
@@ -89,43 +86,57 @@ classes: wide
 
 ## Upcoming Publications
 
-* **J. P. Morgan**, I. Variansyah, T. S. Palmer, and K. E. Niemeyer. One-cell inversions on modern GPUs for transient transport with higher-order discretization. **under review** Pre-peer-review Preprint DOI [10.48550/arXiv.2409.04668](https://arxiv.org/abs/2409.04668).
+* **J. P. Morgan**, I. Variansyah, T. S. Palmer, and K. E. Niemeyer. One-cell inversions on modern GPUs for transient transport with higher-order discretization. **under review** Pre-peer-review Preprint DOI [10.48550/arXiv.2503.00264](https://doi.org/10.48550/arXiv.2503.00264).
 
 * M. Derman, **J. P. Morgan**, K. E. Niemeyer, T. S. Palmer. Unnamed paper on complex eigenvalue decomposition. **in preparation**
+
+
+*  **J. P. Morgan**, I. Variansyah, K. B. Clements, K. E. Niemeyer. Unnamed paper on hybrid delta tracking schemes for transient transport with moving surfaces using a track length estimator.
+
 
 ## Conferences & Professional Development
 Future dates are events I intended to go to.
 
-* May 2025, [International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (M&C 2025)](https://www.ans.org/meetings/mc2025/), Denver, CO*
+* May 2025, [International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (M&C 2025)](https://www.ans.org/meetings/mc2025/)*, Denver, CO
+[<i class='fa fa-file-pdf'></i>](https://doi.org/10.48550/arXiv.2501.05440)
+[<i class='fa fa-file-pdf'></i>](https://doi.org/10.48550/arXiv.2305.13555)
 
-* February 2025, [AMD Tools Development Workshop](https://www.cs.uoregon.edu/AMD-event-2025/), University of Oregon, Eugene, OR
+* February 2025, [AMD Tools Development Workshop*](https://www.cs.uoregon.edu/AMD-event-2025/), University of Oregon, Eugene, OR
 
-* July 2024, [SciPy](https://www.scipy2024.scipy.org/), Tacoma, WA*
+* July 2024, [SciPy*](https://www.scipy2024.scipy.org/), Tacoma, WA [<i class='fa fa-file-powerpoint'></i>](https://zenodo.org/records/13942357)
 
 * May 2024, [NEA Workshop for Radiation Transport Simulation Developers (RTS 2024)](https://www.oecd-nea.org/jcms/pl_90085/workshop-for-radiation-transport-simulation-developers-rts-2024?utm_source=mnb&utm_medium=email&utm_campaign=february2024), Frascati, Italy
 
-* April 2024, [18th Copper Mountain Conference on Iterative Methods (SIAM)](https://grandmaster.colorado.edu/copper/2024/), Copper Mountain, CO*
+* April 2024, [18th Copper Mountain Conference on Iterative Methods (SIAM)](https://grandmaster.colorado.edu/copper/2024/)*, Copper Mountain, CO [<i class='fa fa-file-powerpoint'></i>](https://zenodo.org/records/13942357)
 
-* April 2024, [Sustainable Scientific Software Conference (S<sup>3</sup>C)](https://s3c.sandia.gov/), Seattle, WA* [1](https://zenodo.org/doi/10.5281/zenodo.10961826)
+* April 2024, [Sustainable Scientific Software Conference (S<sup>3</sup>C)](https://s3c.sandia.gov/)*, Seattle, WA [<i class='fa fa-file-powerpoint'></i>](https://zenodo.org/doi/10.5281/zenodo.10961826)
 
-* January 2024, NUWEST, Albuquerque, NM [1](https://illinois-ceesd.github.io/nuwest/), [2](https://github.com/jpmorgan98/nuwest-mcdc-jpmorgan) <small> unable to attend due to weather
+* January 2024, [NUWEST](https://illinois-ceesd.github.io/nuwest/)*, Albuquerque, NM [<i class='fa fa-file-powerpoint'></i>](https://github.com/jpmorgan98/nuwest-mcdc-jpmorgan)\\
+<small> unable to attend due to weather
 
-* January 2024, [US Research Software Sustainability Institute (URSSI)](https://github.com/si2-urssi/winterschool-Jan2024), Portland, OR\\
+* January 2024, [US Research Software Sustainability Institute (URSSI)*](https://github.com/si2-urssi/winterschool-Jan2024), Portland, OR\\
+<small> worked as a TA
 
 * October 2023, Monte Carlo Summit, University of Notre Dame, South Bend, IN
 
-* August 2023, [International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C Intl.)](https://mc2023.com/), Niagara Falls, ON, Canada \[[1](https://github.com/jpmorgan98/MandC2023-Therefore/blob/main/We3T5-4-JoannaPiperMorgan.pptx)\] \[[2](https://github.com/jpmorgan98/MandC2023-Therefore/blob/main/poster_presentation.pptx)\]*
+* August 2023, [International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C Intl.)*](https://mc2023.com/), Niagara Falls, ON, Canada
+[<i class='fa fa-file-pdf'></i>](https://doi.org/10.48550/arXiv.2305.13555) [<i class='fa fa-file-powerpoint'></i>](https://zenodo.org/records/10511837),
+[<i class='fa fa-file-pdf'></i>](https://doi.org/10.48550/arXiv.2306.07847) [<i class='fa fa-file-image'></i>](https://zenodo.org/records/10511913),
+[<i class='fa fa-file-pdf'></i>](https://doi.org/10.48550/arXiv.2305.07636)
 
 * July 2023, High Energy Density Science Summer School (HEDS), San Diego, CA\\
 <small> Hosted at University of California San Diego
 
-* July 2022, [Scientific Computing in Python](https://conference.scipy.org/), Austin, TX \[[1](https://zenodo.org/record/6946791)]\*
+* July 2022, [Scientific Computing in Python*](https://conference.scipy.org/), Austin, TX [<i class='fa fa-file-powerpoint'></i>](https://zenodo.org/record/6946791)
 
-* June 2022 [American Nuclear Society Annual Conference](https://www.ans.org/meetings/am2022/), Anaheim, CA [1](https://doi.org/10.2172/1821347).
+* June 2022 [American Nuclear Society Annual Conference*](https://www.ans.org/meetings/am2022/), Anaheim, CA
+[<i class='fa fa-file-pdf'></i>](https://zenodo.org/records/6643659) [<i class='fa fa-file-powerpoint'></i>](https://doi.org/10.2172/1821347),
+[<i class='fa fa-file-pdf'></i>](https://zenodo.org/records/6646813) [<i class='fa fa-file-powerpoint'></i>](https://zenodo.org/records/6646833). 
 
-* October 2021, [Conference on Mathematics and Computational Methods Applied to Nuclear Science (M&C 2021)](https://www.ans.org/meetings/mc2021/), Raleigh, NC \\
-<small>*presented at conference
+* October 2021, [Conference on Mathematics and Computational Methods Applied to Nuclear Science (M&C 2021)](https://www.ans.org/meetings/mc2021/), Raleigh, NC\\
 
 * June 2018, [United States Particle Accelerator School (USPAS)](https://uspas.fnal.gov/), Albuquerque, NM\\
 <small> Course: *Fundamentals of Accelerator Physics and Technology with Simulations and Measurements Lab*\\
         Credit provided by University of New Mexico
+
+<small>*presented at conference

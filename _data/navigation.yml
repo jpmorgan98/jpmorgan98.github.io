@@ -26,7 +26,8 @@ main:
     url: /about/
   - title: "work"
     url: /work/
-
+  - title: "software"
+    url: /codes/
 
 # documentation links
 docs:

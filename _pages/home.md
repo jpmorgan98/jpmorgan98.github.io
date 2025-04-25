@@ -59,6 +59,10 @@ feature_row:
 
 ---
 
+**My defense is scheduled for Monday June 9th at 1PM PT in [Rogers Hall 226](https://maps.app.goo.gl/HjScZnFoTVdTdJez5) and on [zoom](https://tinyurl.com/joannadefense) <br> See my [abstract](/assets/docs/defense_annoucment.pdf) for more details**
+{: .notice--success}
+{: style="text-align: center;"}
+
 Welcome to my professional website. Feel free to click around look at some of my projects, cv, or whatever floats your boat! If you feel inclined to reach out (e.g. academic discussions, just wanna say hi, etc.) please don't hesitate to shoot me an email at [joannapipermorgan@gmail.com](mailto:joannapipermorgan@gmail.com).
 
 

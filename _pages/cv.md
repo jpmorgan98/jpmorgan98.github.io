@@ -100,11 +100,12 @@ Future dates are events I intended to go to.
 
 * May 2025, [International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (M&C 2025)](https://www.ans.org/meetings/mc2025/)*, Denver, CO
 [<i class='fa fa-file-pdf'></i>](https://doi.org/10.48550/arXiv.2501.05440)
+[<i class='fa fa-file-powerpoint'></i>](https://doi.org10.5281/zenodo.15330987)
 [<i class='fa fa-file-pdf'></i>](https://doi.org/10.48550/arXiv.2305.13555)
 
 * February 2025, [AMD Tools Development Workshop*](https://www.cs.uoregon.edu/AMD-event-2025/), University of Oregon, Eugene, OR
 
-* July 2024, [SciPy*](https://www.scipy2024.scipy.org/), Tacoma, WA [<i class='fa fa-file-powerpoint'></i>](https://zenodo.org/records/13942357)
+* July 2024, [SciPy*](https://www.scipy2024.scipy.org/), Tacoma, WA [<i class='fa fa-file-powerpoint'></i>](https://zenodo.org/records/13942357) [<i class='fa fa-file-video'></i>](https://youtu.be/4ylldAq8S90?si=HOxVntSQYFNGXFvo)
 
 * May 2024, [NEA Workshop for Radiation Transport Simulation Developers (RTS 2024)](https://www.oecd-nea.org/jcms/pl_90085/workshop-for-radiation-transport-simulation-developers-rts-2024?utm_source=mnb&utm_medium=email&utm_campaign=february2024), Frascati, Italy
 

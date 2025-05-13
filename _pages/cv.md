@@ -16,7 +16,7 @@ classes: wide
         Major Advisor: [Kyle E. Niemeyer](https://niemeyer-research-group.github.io/)\\
         Minor: Nuclear Engineering, 
         Minor Advisor: [Todd S. Palmer](https://engineering.oregonstate.edu/people/todd-palmer) \\
-        Perspective dissertation title: *On algorithms and software engineering schemes for radiation transport on heterogeneous compute architectures*
+        Dissertation title: *Algorithms and software engineering schemes for radiation transport on heterogeneous compute architectures*
 
 * MS Mechanical Engineering (December 2022)\\
 <small> [Oregon State University](https://oregonstate.edu/), [School of Mechanical, Industrial, and Manufacturing Engineering](https://engineering.oregonstate.edu/MIME)\\
@@ -31,13 +31,15 @@ classes: wide
 
 ## Journal Publications
 
+* **J. P. Morgan**, I. Variansyah, T. S. Palmer, and K. E. Niemeyer. (2025) One-Cell Inversion for Solving Higher-Order Time-Dependent Radiation Transport on GPUs. **Accepted.** *Nuclear Science and Engineering.* Preprint DOI [10.48550/arXiv.2503.00264](https://doi.org/10.48550/arXiv.2503.00264).
+
 * **J. P. Morgan**, I. Variansyah, B. Cuneo, T. S. Palmer, and K. E. Niemeyer. (2025) Performant and Portable Monte Carlo Neutron Transport via Numba. *Computing in Science and Engineering (IEEE)* Preprint DOI [10.48550/arXiv.2409.04668](https://arxiv.org/abs/2409.04668). DOI [10.1109/MCSE.2025.3550863](https://doi.org/10.1109/MCSE.2025.3550863).
 
 * **J. P. Morgan**, I. Variansyah, S. Pasmann, K. B. Clements, B. Cuneo, A. Mote, C. Shaw, J. Northrop, R. Pankaj, E. Lame, B. Whewell, R. McClarren, T. Palmer, L. Chen, D. Anistratov, C. T. Kelley, C. Palmer, and K. E. Niemeyer. (2024) Monte Carlo / Dynamic Code (MC/DC): An accelerated Python package for fully transient neutron transport and rapid methods development. *Journal of Open Source Software*. **9(96)**, 6415. DOI [10.21105/joss.06415]( https://doi.org/10.21105/joss.06415).
 
 * **J. P. Morgan**, A. Mote, S. Pasmann, G. Ridley, T. S. Palmer, K. E. Niemeyer, R. G. McClarren. The Monte Carlo Computational Summit -- October 25 & 26, 2023 -- Notre Dame, Indiana, USA. *Journal of Computational and Theoretical Transport*. DOI [10.1080/23324309.2024.2354401](https://doi.org/10.1080/23324309.2024.2354401) Preprint DOI [10.48550/arXiv.2402.08161](https://doi.org/10.48550/arXiv.2402.08161).
 
-## Peer-Reviewed Conference and Other Publications
+## Peer-Reviewed Conference Publications
 
 * **J. P. Morgan**, B. Cuneo, I. Variansyah, K. E. Niemeyer. Enabling GPU portability into the Numba-JITed Monte Carlo particle transport code MC/DC. (2025). To appear in *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C 2025).* Denver, CO, USA. Preprint DOI [10.48550/arXiv.2501.05440](https://doi.org/10.48550/arXiv.2501.05440).
 
@@ -55,13 +57,11 @@ classes: wide
 
 ## Upcoming Publications
 
-* **J. P. Morgan**, I. Variansyah, T. S. Palmer, and K. E. Niemeyer. One-cell inversions on modern GPUs for transient transport with higher-order discretization. **under review** Pre-peer-review Preprint DOI [10.48550/arXiv.2503.00264](https://doi.org/10.48550/arXiv.2503.00264).
+*  **J. P. Morgan**, I. Variansyah, K. B. Clements, K. E. Niemeyer. Hybrid Woodcock-delta Tracking Schemes Using a Track-Length Estimator. **in preparation**
+
+* **J. P. Morgan**,  T. S. Palmer, and K. E. Niemeyer. Space-Parallel Preconditioning for One Cell Inversions using a Second Moment Method on Discontinuous Finite Volumes. **in preparation**
 
 * M. Derman, **J. P. Morgan**, K. E. Niemeyer, T. S. Palmer. Unnamed paper on complex eigenvalue decomposition. **in preparation**
-
-*  **J. P. Morgan**, I. Variansyah, K. B. Clements, K. E. Niemeyer. Unnamed paper on hybrid delta tracking schemes for transient transport with moving surfaces using a track length estimator. **in preparation**
-
-* **J. P. Morgan**,  T. S. Palmer, and K. E. Niemeyer. Unnamed paper on a second moment method for converging the scattering limit in space parallel iterative neutron transport. **in preparation**
 
 ## Research Experience
 
@@ -98,14 +98,16 @@ classes: wide
 ## Conferences & Professional Development
 Future dates are events I intended to go to.
 
-* May 2025, [International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (M&C 2025)](https://www.ans.org/meetings/mc2025/)*, Denver, CO
+* May 2025, [International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (M&C 2025)](https://www.ans.org/meetings/mc2025/), Denver, CO
 [<i class='fa fa-file-pdf'></i>](https://doi.org/10.48550/arXiv.2501.05440)
-[<i class='fa fa-file-powerpoint'></i>](https://doi.org10.5281/zenodo.15330987)
+[<i class='fa fa-file-powerpoint'></i>](https://doi.org/10.5281/zenodo.15330987),
 [<i class='fa fa-file-pdf'></i>](https://doi.org/10.48550/arXiv.2305.13555)
 
 * February 2025, [AMD Tools Development Workshop*](https://www.cs.uoregon.edu/AMD-event-2025/), University of Oregon, Eugene, OR
 
-* July 2024, [SciPy*](https://www.scipy2024.scipy.org/), Tacoma, WA [<i class='fa fa-file-powerpoint'></i>](https://zenodo.org/records/13942357) [<i class='fa fa-file-video'></i>](https://youtu.be/4ylldAq8S90?si=HOxVntSQYFNGXFvo)
+* July 2024, [SciPy*](https://www.scipy2024.scipy.org/), Tacoma, WA
+[<i class='fa fa-file-powerpoint'></i>](https://zenodo.org/records/13942357)
+[<i class='fa fa-file-video'></i>](https://youtu.be/4ylldAq8S90?si=HOxVntSQYFNGXFvo)
 
 * May 2024, [NEA Workshop for Radiation Transport Simulation Developers (RTS 2024)](https://www.oecd-nea.org/jcms/pl_90085/workshop-for-radiation-transport-simulation-developers-rts-2024?utm_source=mnb&utm_medium=email&utm_campaign=february2024), Frascati, Italy
 

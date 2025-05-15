@@ -59,7 +59,7 @@ classes: wide
 
 *  **J. P. Morgan**, I. Variansyah, K. B. Clements, K. E. Niemeyer. Hybrid Woodcock-delta Tracking Schemes Using a Track-Length Estimator. **in preparation**
 
-* **J. P. Morgan**,  T. S. Palmer, and K. E. Niemeyer. Space-Parallel Preconditioning for One Cell Inversions using a Second Moment Method on Discontinuous Finite Volumes. **in preparation**
+* **J. P. Morgan**,  T. S. Palmer, and K. E. Niemeyer. Efficient Preconditioning for Space-Parallel One Cell Inversions in Slab Geometry using a Second Moment Method. **in preparation**
 
 * M. Derman, **J. P. Morgan**, K. E. Niemeyer, T. S. Palmer. Unnamed paper on complex eigenvalue decomposition. **in preparation**
 

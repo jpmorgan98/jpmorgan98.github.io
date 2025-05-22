@@ -213,8 +213,8 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: "_work"
-      type: work
+      path: "_blog"
+      type: blog
     values:
       layout: single
       author_profile: true

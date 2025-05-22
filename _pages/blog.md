@@ -1,9 +1,9 @@
 ---
-title: Work
+title: blog
 layout: collection
 classes: wide
-permalink: /work/
-collection: work
+permalink: /blog/
+collection: blog
 
 entries_layout: grid
 ---

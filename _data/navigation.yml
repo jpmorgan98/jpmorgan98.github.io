@@ -24,8 +24,8 @@ main:
     url: /cv/
   - title: "about"
     url: /about/
-  - title: "work"
-    url: /work/
+  - title: "blog"
+    url: /blog/
   - title: "software"
     url: /codes/
 

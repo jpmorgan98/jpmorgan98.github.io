@@ -1,0 +1,553 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>A Basic Primer for Monte Carlo / Dynamic Code - Joanna Piper Morgan</title>
+<meta name="description" content="the razors edge of transient neutron transport!">
+
+
+  <meta name="author" content="Joanna Piper Morgan">
+  
+  <meta property="article:author" content="Joanna Piper Morgan">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Joanna Piper Morgan">
+<meta property="og:title" content="A Basic Primer for Monte Carlo / Dynamic Code">
+<meta property="og:url" content="https://jpmorgan98.github.io/blog/2025-05-15_mcdc_a/">
+
+
+  <meta property="og:description" content="the razors edge of transient neutron transport!">
+
+
+
+  <meta property="og:image" content="https://jpmorgan98.github.io/assets/images/mcdc-logo.png">
+
+
+
+
+
+  <meta property="article:published_time" content="2025-06-10T15:44:36-07:00">
+
+
+
+  <meta property="article:modified_time" content="2023-05-15T00:00:00-07:00">
+
+
+
+
+<link rel="canonical" href="https://jpmorgan98.github.io/blog/2025-05-15_mcdc_a/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Joanna Piper Morgan",
+      "url": "https://jpmorgan98.github.io/"
+    
+  }
+</script>
+
+
+  <meta name="google-site-verification" content="ZC_NtQJawu4w2QaKF1WaTYaLYjXmBeklOgcnf_kkb1Q" />
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Joanna Piper Morgan Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/assets/images/profile.png" alt="Joanna Piper Morgan"></a>
+        
+        <a class="site-title" href="/">
+          Joanna Piper Morgan
+          <span class="site-subtitle">in somnis veritas</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/cv/">cv</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about/">about</a>
+            </li><li class="masthead__menu-item">
+              <a href="/blog/">blog</a>
+            </li><li class="masthead__menu-item">
+              <a href="/codes/">software</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person">
+
+  
+    <div class="author__avatar">
+      
+        <img src="/assets/images/jo.jpg" alt="Joanna Piper Morgan" itemprop="image">
+      
+    </div>
+  
+
+  <div class="author__content">
+    
+      <h3 class="author__name" itemprop="name">Joanna Piper Morgan</h3>
+    
+    
+      <div class="author__bio" itemprop="description">
+        <p>(she/her) :3</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Corvallis, OR</span>
+        </li>
+      
+
+      
+        
+          
+            <li><a href="https://github.com/jpmorgan98" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">github</span></a></li>
+          
+        
+          
+            <li><a href="https://orcid.org/0000-0003-1379-5431" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-orcid" aria-hidden="true"></i><span class="label">orcid</span></a></li>
+          
+        
+          
+            <li><a href="https://scholar.google.com/citations?user=AtZDfnAAAAAJ&hl=en&oi=ao" rel="nofollow noopener noreferrer"><i class="fa fa-graduation-cap" aria-hidden="true"></i><span class="label">google scholar</span></a></li>
+          
+        
+          
+            <li><a href="https://www.linkedin.com/in/jpmorgan98/" rel="nofollow noopener noreferrer"><i class="fab fa-linkedin" aria-hidden="true"></i><span class="label">linkedin</span></a></li>
+          
+        
+          
+            <li><a href="mailto:joannapipermorgan@gmail.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i><span class="label">contact</span></a></li>
+          
+        
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="A Basic Primer for Monte Carlo / Dynamic Code">
+    <meta itemprop="description" content="the razors edge of transient neutron transport!">
+    <meta itemprop="datePublished" content="2025-06-10T15:44:36-07:00">
+    <meta itemprop="dateModified" content="2023-05-15T00:00:00-07:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">A Basic Primer for Monte Carlo / Dynamic Code
+</h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          29 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> On this page</h4></header>
+              <ul class="toc__menu"><li><a href="#chains-of-reaction">Chains of Reaction</a><ul><li><a href="#the-power-reactor">The Power Reactor</a></li></ul></li><li><a href="#neutron-transport">Neutron Transport</a></li><li><a href="#monte-carlo-and-los-alamos-strange-bed-fellows">Monte Carlo and Los Alamos: Strange Bed Fellows</a></li><li><a href="#portable-and-performant-python-code">Portable and Performant Python Code</a></li><li><a href="#transient-transport">Transient Transport</a></li><li><a href="#transient-monte-carlo-methods-research">Transient Monte Carlo Methods Research</a></li></ul>
+
+            </nav>
+          </aside>
+        
+        <p><strong>Work in progress</strong></p>
+
+<figure class="">
+  <img src="/assets/images/mcdc-logo.png" alt="" /></figure>
+
+<p><em>Monte Carlo / Dynamic Code (MC/DC) is a portable, performant testbed for rapid transient Monte Carlo neutron transport methods development.</em> If your asking your self what the fuck that word garbage means and that this is why you don’t talk to engineers welllllllllll………… read on. For those who that made perfect sense to our <a href="https://github.com/CEMeNT-PSAAP/MCDC">readme</a> should do fine.</p>
+
+<p>The goal of this article is to give the average person who might have a bit of undergrad physics knowledge (or a particularly clever high schooler) a good idea of what we are actually doing in the <a href="https://cement-psaap.github.io/">Center for Exascale Monte Carlo Neutron Transport</a>. 
+Really this is just so I can send my tinder dates a link to this page instead of annoyingly dominating a conversation for an hour or two just to answer the question, <em>“what do you do?”</em>
+Undoubtedly others have explained each one of these topics with greater clarity and pithiness then my mediocrely-qualified melon could ever surmise, but unfortunately you’re reading this for some godforsaken reason. We’ll have to see if I can muddle through and not make a fool of myself.</p>
+
+<p>Please note that this article attempts to talk about some of my colluges work so if you are interested in those subjects, best to get it from the more competent horses’ mouths.</p>
+
+<h1 id="chains-of-reaction">Chains of Reaction</h1>
+
+<p>Let’s start with a bit of a refresher on reactions (nuclear or otherwise) and useful energy production.</p>
+
+<p>Say you are in your mediocre one-bedroom apartment—pop corn celling and all—and want to generate heat. While cranking up the thermostat and sinking enough current into your base board heaters to kill four <a href="https://en.wikipedia.org/wiki/Electrocuting_an_Elephant">Topsys</a> sounds awfully nice, you remember that you are not paid enough and can already feel the sting of your electric bill. You pace: “Should I put on the third pair of socks?” you wonder to your self.</p>
+
+<p>Well thank crap Icarus is a sneaky lil bastard and enlightened all mankind on how to harness and control fire ten-thousand years ago. You (if you are lucky enough to have a fireplace) can be next in that long storied and proud tradition of dousing some poor squirrels home with enough lighter fluid to melt steal beams better then jet fuel. When burning something we are actually using a chemical reaction known as <em>combustion</em>. We provide an initial bit of activation energy (e.g. a match) to a chemical that is readily combustible (e.g. the lighter fluid) and start a reaction by releasing the energy that is trapped within said combustible material’s chemical bonds. What we are left with is heat and combustion products, usually C02 and soot. If we have designed a system to combust things well enough we will have things we can do to control the rate of our pyromancy and release exactly as much heat energy as we want (e.g. controlling how much oxygen the fire gets with a flu, wit holding fuel).</p>
+
+<p>Now if you’re like me and don’t have a fireplace in your apartment are you just SOL? Damned to either be cold or broke? Well you could wait for the inevitable consequences of our societal-wide <em>proud tradition</em> of burning shit to catch up with us; when the average low in winter is a frigged 75, but your cold now! Don’t worry, global warming will eventually make these issues moot but in the meantime lets explore some other methods of generating heat. While there are of course other chemical reactions that generate heat those are boring. Let go deeper, or smaller rather.</p>
+
+<p>Many naturally occurring isotopes of various elements have been known to spontaneously <em>radioactively decay</em>. This is a fancy way of saying that the atoms themselves are unstable and break apart. While the underlying physics is different, just as with combustion, we are left with what will ultimately become heat energy and physical products. The main difference here is that the mass of the reactants no longer equals the mass of the products. We have some crazy how broken the first law of thermodynamics and created energy from mass. That’s not really important; all’s that is is that we (or rather) the materials did it themselves.
+Well there it is!
+We just need to get enough of this material concentrated to continually release heat into my apartment!</p>
+
+<p>Interestingly enough a trio of Georgian (country not state) woodsmen <a href="https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1660web-81061875.pdf">stumbled into the same idea</a>.
+Unfortunately they have become our example as to why this will not work (<a href="https://en.wikipedia.org/wiki/Lia_radiological_accident">two of them died</a>). 
+As it ends up radioactive decay if releasing particles at high enough energy can <em>ionize</em> molecules within your body leading to cellular death.
+Enough cellular death leads to actual death.
+And there’s already carcinogenic asbestoses in these walls meant to save a few bucks on the power bill anywho.</p>
+
+<h2 id="the-power-reactor">The Power Reactor</h2>
+
+<p>Ok ok ok, so we can’t burn anything chemically, using naturally decaying isotopes is dangerous and honestly doesn’t release <em>that</em> much heat. So what if, and come with me on this, you somehow take those unstable elements and control the manner in which they decay and thus release heat. And you find that you can release an amazing amount of heat with a relatively small amount of fuel. And lets say instead of using the heat directly, you hooked it up to some kind of pressurized water loop totally containing the radioactivity within a containment building. Then dumped that pressurized water loop’s heat into a Rankine power cycle to spin generators to produce MegaWatts of electric power for you and ten thousand of your closest friends!</p>
+
+<p>Well if you did that you would learn two things: (A) how dumb my original analogy was and (B) how the average american nuclear power station works.</p>
+
+<p>We take unstable elements that can fission and bombard them with neutrons to actually incur there premature demise. Again we get heat and product elements, but critically (pun intended) we also get very fast moving neutrons that come flying out of this reaction. For certain elements (e.g. U235) we can even get <em>more then one fast new neutron</em>.</p>
+
+<p>These new neutrons are traveling so fast in fact that they probably won’t actually interact with the physical material at all. Much like my ex, if not slowed down and moderated, they will waltz out of your life without doing much of anything, other than getting your hopes up. So if we can decrease their speed, aka moderate their energy, we can slow them down enough to interact with the next atom, ready to get it’s heart absolutely ripped in two. We do this with things like water and graphite and can optimize reactor design to actually do this.</p>
+
+<p>When we are turning the reactor on we need the population to <a href="https://www.youtube.com/watch?v=Kas0tIxDvrg">increase <em>exponentially</em></a> (i.e. one neutron makes two, those two make four, those four make eight, so on and so forth). As many of us know from COIVD-19, exponential growth can become a very scary thing. If that neutron population continues to grow unbounded we can start to release too much heat for our cooling system to adequately handel. Too much heat in fact for our materials in the reactor (including the fuel itself) to stay solid. This runaway situation is the worst case scenario for a reactor and is called “meltdown” as the metallic materials in the reactor core actually “melt down” into the ground.</p>
+
+<p>So we very urgently need to control this population and how it grows and how it shrinks in order for our system to stay in balance and produce enough heat.
+We do this by changing how the neutrons move within the reactor using things like control rods, burnable poisons, the geometric design of the rector itself, fuel enrichment levels, etc. We now effectively have a system with an accelerator and breaks. Reactors are rendered safe by the NRC when that accelerator will actually break down and fail if reactor conditions approached meltdown. In many modern reactors these accelerator break down systems are completely passive.</p>
+
+<p><em>Modern american reactors need to be designed with sufficient negative feed back loops so that they cannot “meltdown”</em></p>
+
+<p>Once we do that we can start to control exactly how much heat we will get and make the most expensive glorified water heater you have ever seen.</p>
+
+<h1 id="neutron-transport">Neutron Transport</h1>
+
+<p>Ok so to recap, I wanted to heat my apartment <em>something something</em> reaction, <em>something something</em> population, <em>something something</em> moderation, <em>something something</em> I need to get a real job. First, I love my job, and second now we know why we want to model a nuclear reactor and what it’s more or less doing, now lets talk about <em>how</em> to model it.</p>
+
+<h1 id="monte-carlo-and-los-alamos-strange-bed-fellows">Monte Carlo and Los Alamos: Strange Bed Fellows</h1>
+
+<h1 id="portable-and-performant-python-code">Portable and Performant Python Code</h1>
+
+<h1 id="transient-transport">Transient Transport</h1>
+
+<h1 id="transient-monte-carlo-methods-research">Transient Monte Carlo Methods Research</h1>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#mcdc" class="page__taxonomy-item" rel="tag">mcdc</a><span class="sep">, </span>
+    
+      <a href="/tags/#my-work" class="page__taxonomy-item" rel="tag">my work</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#edge-case" class="page__taxonomy-item" rel="tag">Edge Case</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2023-05-15">May 15, 2023</time></p>
+
+
+      </footer>
+
+      <section class="page__share">
+  
+
+  <a href="https://twitter.com/intent/tweet?text=A+Basic+Primer+for+Monte+Carlo+%2F+Dynamic+Code%20https%3A%2F%2Fjpmorgan98.github.io%2Fblog%2F2025-05-15_mcdc_a%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fjpmorgan98.github.io%2Fblog%2F2025-05-15_mcdc_a%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fjpmorgan98.github.io%2Fblog%2F2025-05-15_mcdc_a%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/blog/2023-04-15_therefore/" class="pagination--pager" title="Therefore
+">Previous</a>
+    
+    
+      <a href="/blog/2025-05-27_radtransport/" class="pagination--pager" title="Imagine your a photon
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h4 class="page__related-title">You May Also Enjoy</h4>
+      <div class="grid__wrapper">
+        
+      </div>
+    </div>
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<small><i>This is my personal website—nothing here is intended to reflect the views of my
+    collaborators, my institution, or any other individual or entity besides myself.</i></small> 
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+      
+        
+          <li><a href="https://github.com/jpmorgan98" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+        
+      
+        
+          <li><a href="mailto:joannapipermorgan@gmail.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Contact</a></li>
+        
+      
+        
+          <li><a href="/disclaimer" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-file-contract" aria-hidden="true"></i> Disclaimer</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2025 Joanna Piper Morgan. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+    
+
+  
+
+
+
+
+<!--Following is needed for LATEX operability on this site-->
+
+<script type="text/javascript" async
+	src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<script type="text/x-mathjax-config">
+   MathJax.Hub.Config({
+     extensions: ["tex2jax.js"],
+     jax: ["input/TeX", "output/HTML-CSS"],
+     tex2jax: {
+       inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+       displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+       processEscapes: true
+     },
+     "HTML-CSS": { availableFonts: ["TeX"] }
+   });
+</script>
+
+
+  </body>
+</html>

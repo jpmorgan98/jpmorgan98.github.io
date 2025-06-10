@@ -19,10 +19,6 @@ feature_row:
     
 ---
 
-**My defense is scheduled for Monday June 9th at 1PM PT in [Rogers Hall 226](https://maps.app.goo.gl/HjScZnFoTVdTdJez5) and on [zoom](https://tinyurl.com/joannadefense) <br> See my [abstract](/assets/docs/defense_annoucment.pdf) for more details**
-{: .notice--success}
-{: style="text-align: center;"}
-
 My friends call me Piper, Annie, Josie, or Pipes but Joanna or any nicknames you can come up with will work!
 
 I'm a doctoral candidate at Oregon State University where I will get my PhD in mechanical engineering with an option in thermal fluid sciences and a minor in nuclear engineering in June of 2025.

@@ -1,0 +1,532 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Imagine your a photon - Joanna Piper Morgan</title>
+<meta name="description" content="A brief introduction to radiation transport for a general audience">
+
+
+  <meta name="author" content="Joanna Piper Morgan">
+  
+  <meta property="article:author" content="Joanna Piper Morgan">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Joanna Piper Morgan">
+<meta property="og:title" content="Imagine your a photon">
+<meta property="og:url" content="https://jpmorgan98.github.io/blog/2025-05-27_radtransport/">
+
+
+  <meta property="og:description" content="A brief introduction to radiation transport for a general audience">
+
+
+
+  <meta property="og:image" content="https://jpmorgan98.github.io/assets/images/photon.png">
+
+
+
+
+
+  <meta property="article:published_time" content="2025-06-10T15:44:36-07:00">
+
+
+
+  <meta property="article:modified_time" content="2025-05-27T00:00:00-07:00">
+
+
+
+
+<link rel="canonical" href="https://jpmorgan98.github.io/blog/2025-05-27_radtransport/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Joanna Piper Morgan",
+      "url": "https://jpmorgan98.github.io/"
+    
+  }
+</script>
+
+
+  <meta name="google-site-verification" content="ZC_NtQJawu4w2QaKF1WaTYaLYjXmBeklOgcnf_kkb1Q" />
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Joanna Piper Morgan Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/assets/images/profile.png" alt="Joanna Piper Morgan"></a>
+        
+        <a class="site-title" href="/">
+          Joanna Piper Morgan
+          <span class="site-subtitle">in somnis veritas</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/cv/">cv</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about/">about</a>
+            </li><li class="masthead__menu-item">
+              <a href="/blog/">blog</a>
+            </li><li class="masthead__menu-item">
+              <a href="/codes/">software</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person">
+
+  
+    <div class="author__avatar">
+      
+        <img src="/assets/images/jo.jpg" alt="Joanna Piper Morgan" itemprop="image">
+      
+    </div>
+  
+
+  <div class="author__content">
+    
+      <h3 class="author__name" itemprop="name">Joanna Piper Morgan</h3>
+    
+    
+      <div class="author__bio" itemprop="description">
+        <p>(she/her) :3</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Corvallis, OR</span>
+        </li>
+      
+
+      
+        
+          
+            <li><a href="https://github.com/jpmorgan98" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">github</span></a></li>
+          
+        
+          
+            <li><a href="https://orcid.org/0000-0003-1379-5431" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-orcid" aria-hidden="true"></i><span class="label">orcid</span></a></li>
+          
+        
+          
+            <li><a href="https://scholar.google.com/citations?user=AtZDfnAAAAAJ&hl=en&oi=ao" rel="nofollow noopener noreferrer"><i class="fa fa-graduation-cap" aria-hidden="true"></i><span class="label">google scholar</span></a></li>
+          
+        
+          
+            <li><a href="https://www.linkedin.com/in/jpmorgan98/" rel="nofollow noopener noreferrer"><i class="fab fa-linkedin" aria-hidden="true"></i><span class="label">linkedin</span></a></li>
+          
+        
+          
+            <li><a href="mailto:joannapipermorgan@gmail.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i><span class="label">contact</span></a></li>
+          
+        
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Imagine your a photon">
+    <meta itemprop="description" content="A brief introduction to radiation transport for a general audience">
+    <meta itemprop="datePublished" content="2025-06-10T15:44:36-07:00">
+    <meta itemprop="dateModified" content="2025-05-27T00:00:00-07:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Imagine your a photon
+</h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          20 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+        <figure class="">
+  <img src="/assets/images/photon.png" alt="" /></figure>
+
+<p>This was the first portion of my dissertation where I am trying to introduce radiation transport for a more general audience.</p>
+
+<p>Before jumping into equations and math and schemes and algorithms—imagine the warmth of the sun on your face.
+Feel the golden rays that have danced across the faces of every person you have ever loved, hated, lost, cursed, and indeed every person who has ever lived.
+You may ask how did resplendent power of the gods come to interact with your lovely face?
+Before we answer that question we must make some simplifications from the physical truth, tell ourselves convenient lies so we can comprehend an <em>approximation</em> of the truth.
+There are infinitesimally small packets of energy called photons which for our purposes behave much like a billiard ball would.
+These invisible billiard balls travel at a constant speed yet can still have differing energies from one another, which we call color.
+They move on straight line paths between events like bouncing off a material or being absorbed by your face.</p>
+
+<p>Now consider a single photon as it leaves the stellar atmosphere.
+It and its comrades are traveling in all directions outward, but our photon and a few of its friends are aimed at a pale blue dot in the distance.
+They travel on a straight line path, <em>streaming</em> through the void region of space, not interacting with much of anything for about 5 minuets—all the while the pale blue dot is growing in size.
+Once most of the horizon is filled with a view of Earth, some of our photons begin to interact with the air in the atmosphere we breath.
+Not very often at first in the high altitudes where the atmosphere is thin, but then growing ever more common as our photons get closer and closer to the ground.
+These ``interactions” are actually some of our photon’s friends smashing into the gas molecules making up the atmosphere itself.
+Most of that gas is nitrogen which really likes to interact with blue light.
+These photons are then <em>scattered</em> like billiard balls off of one-another where only their direction is changed.
+This is why an Eastern Oregon sky (and occasionally a Willamette Valley sky) appears so blue!
+That’s blue light from the sun hitting the atmosphere tens of hundreds of miles away bouncing off an N$_2$ molecule and heading straight for you!</p>
+
+<p>Our photon, however, interacts with nothing and keeps on that straight line path from the stellar atmosphere to your face.
+As you turn towards the sun our single photon (and about a gigllion (in the 1e21 range) of its closest friends per second) hits your face.
+Some of these photons are reflected off in such a way that they will project a rendering of it into little receptors in the eyes of those who get to behold you.
+Others are <em>absorbed</em>, each one imparting a tiny bit of energy into your skin you feel as heat.</p>
+
+<p>Just as we described this process with words, we can describe it with math using operations which represent <em>streaming</em>, <em>absorbing</em>, and <em>scattering</em>—or more generally sources and sinks of particles of light.
+We do this because a rigorous mathematical definition has the added benefit of being more generally applicable to other problems.
+Photons move in three-dimensional space in a specific direction of travel (imagine the photon being at a specific location and and that is pointing in the direction it’s traveling)
+We need to describe both where the particle is and where that pointer is pointing,
+meaning to describe a single particle of light we need at least six independent variables.
+If you allow things to change with respect to time then there’s an additional 7\ths independent variable.
+This is often referred to as the <em>curse of dimensionality</em> and is one of the things that makes solving these equations so difficult.
+Not just photons behave like this, <em>streaming</em>, <em>absorbing</em>, and <em>scattering</em> their through the universe—the movement of any neutral particle that doesn’t interact with electric or magnetic fields can be described with similar equations.</p>
+
+<p>For example another problem we are interested in simulating is how neutral particles are moving in problems undergoing nuclear fission.
+Neutrons (unlike charged particles, and most of the time, photons) can interact with the nucleus of an atom because they are unaffected by the negatively charged orbital electrons and the positively charged core.
+Some isotopes (Specific arrangements of the subatomic core of a given atom.) readily absorb neutrons into the nucleus, which may make such atoms unstable.</p>
+
+<p>When an unstable atom <em>fissions</em> (breaks apart)
+, it releases energy along with daughter and subatomic particles, which may be more neutrons, depending on the parent atom.
+If additional neutrons are released and encounter more material which can undergo this type of reaction, the release of subsequent neutrons can induce a <em>chain</em> reaction.
+A nuclear reactor’s job is to keep this chain reaction in balance, producing enough heat to boil water, spin turbines, and generate electricity—but not too much heat that the system can’t safely operate.
+To ensure this process produces enough heat-generating reactions <em>safely</em>, we need to understand where, how, and when neutrons are moving within the core of a reactor.
+We use more or less the same equation (with some extra terms) to describe how neutrons are born, die, move, and interact within a nuclear reactor as we would photons hitting your face from the sun.</p>
+
+<p>Other times we would want to solve these equations include during cancer radio therapy when we often target  neutral particles (like photons at x-ray energies) directly at cancerous cells while trying to avoid healthy tissue as much as possible.
+Or when we want to model the wall of a rocket nozzle to ensure that it will not melt due to heat transfer from the burning gases.
+From the more pedestrian engineering applications all the way to accretion disks of black holes, core-collapse supernovae, cores of super-massive planets, and the core of our own sun (where our photon from earlier was born) can, in part, be modeled with equations that look similar to the ones I research.</p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#radiation-transport" class="page__taxonomy-item" rel="tag">radiation transport</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#my-work" class="page__taxonomy-item" rel="tag">my work</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2025-05-27">May 27, 2025</time></p>
+
+
+      </footer>
+
+      <section class="page__share">
+  
+
+  <a href="https://twitter.com/intent/tweet?text=Imagine+your+a+photon%20https%3A%2F%2Fjpmorgan98.github.io%2Fblog%2F2025-05-27_radtransport%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fjpmorgan98.github.io%2Fblog%2F2025-05-27_radtransport%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fjpmorgan98.github.io%2Fblog%2F2025-05-27_radtransport%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/blog/2025-05-15_mcdc_a/" class="pagination--pager" title="A Basic Primer for Monte Carlo / Dynamic Code
+">Previous</a>
+    
+    
+      <a href="/blog/mcdc_b/" class="pagination--pager" title="My work in Monte Carlo / Dynamic Code
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h4 class="page__related-title">You May Also Enjoy</h4>
+      <div class="grid__wrapper">
+        
+      </div>
+    </div>
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<small><i>This is my personal website—nothing here is intended to reflect the views of my
+    collaborators, my institution, or any other individual or entity besides myself.</i></small> 
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+      
+        
+          <li><a href="https://github.com/jpmorgan98" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+        
+      
+        
+          <li><a href="mailto:joannapipermorgan@gmail.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Contact</a></li>
+        
+      
+        
+          <li><a href="/disclaimer" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-file-contract" aria-hidden="true"></i> Disclaimer</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2025 Joanna Piper Morgan. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+    
+
+  
+
+
+
+
+<!--Following is needed for LATEX operability on this site-->
+
+<script type="text/javascript" async
+	src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<script type="text/x-mathjax-config">
+   MathJax.Hub.Config({
+     extensions: ["tex2jax.js"],
+     jax: ["input/TeX", "output/HTML-CSS"],
+     tex2jax: {
+       inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+       displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+       processEscapes: true
+     },
+     "HTML-CSS": { availableFonts: ["TeX"] }
+   });
+</script>
+
+
+  </body>
+</html>

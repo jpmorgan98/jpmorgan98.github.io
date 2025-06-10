@@ -198,7 +198,7 @@ collections:
   work:
     output: true
     permalink: /:collection/:path/
-  recipes:
+  blog:
     output: true
     permalink: /:collection/:path/
   pets:

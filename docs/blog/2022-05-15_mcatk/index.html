@@ -9,37 +9,43 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>blog - Joanna Piper Morgan</title>
-<meta name="description" content="">
+<!-- begin _includes/seo.html --><title>Hybrid Delta Tracking in MCATK - Joanna Piper Morgan</title>
+<meta name="description" content="wood cock delta tracking on a structured mesh">
 
 
   <meta name="author" content="Joanna Piper Morgan">
   
+  <meta property="article:author" content="Joanna Piper Morgan">
+  
 
 
-<meta property="og:type" content="website">
+<meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Joanna Piper Morgan">
-<meta property="og:title" content="blog">
-<meta property="og:url" content="https://jpmorgan98.github.io/blog/">
+<meta property="og:title" content="Hybrid Delta Tracking in MCATK">
+<meta property="og:url" content="https://jpmorgan98.github.io/blog/2022-05-15_mcatk/">
 
 
-  <meta property="og:description" content="">
-
-
-
-  <meta property="og:image" content="https://jpmorgan98.github.io/assets/images/profile.png">
+  <meta property="og:description" content="wood cock delta tracking on a structured mesh">
 
 
 
+  <meta property="og:image" content="https://jpmorgan98.github.io/assets/images/mcatk_teaser.png">
 
 
 
 
 
+  <meta property="article:published_time" content="2025-06-10T15:44:36-07:00">
 
 
-<link rel="canonical" href="https://jpmorgan98.github.io/blog/">
+
+  <meta property="article:modified_time" content="2022-05-15T00:00:00-07:00">
+
+
+
+
+<link rel="canonical" href="https://jpmorgan98.github.io/blog/2022-05-15_mcatk/">
 
 
 
@@ -92,7 +98,7 @@
 
   </head>
 
-  <body class="layout--collection wide">
+  <body class="layout--single">
     <nav class="skip-links">
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
@@ -269,79 +275,18 @@
 
 
 
-  <div class="archive">
-    
-      <h1 id="page-title" class="page__title">blog</h1>
-    
-    <p>Some interesting work I have done over the last few years</p>
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Hybrid Delta Tracking in MCATK">
+    <meta itemprop="description" content="wood cock delta tracking on a structured mesh">
+    <meta itemprop="datePublished" content="2025-06-10T15:44:36-07:00">
+    <meta itemprop="dateModified" content="2022-05-15T00:00:00-07:00">
 
-
-
-<div class="entries-grid">
-  
-
-
-
-
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <img src="/assets/images/trt_cover.png" alt="">
-      </div>
-    
-    <h2 class="archive__item-title no_toc" itemprop="headline">
+    <div class="page__inner-wrap">
       
-        <a href="/blog/2021-01-15_trt/" rel="permalink">Flocking A
-</a>
-      
-    </h2>
-    
-
-  <p class="page__meta">
-    
-
-    
-
-    
-      
-      
-
-      <span class="page__meta-readtime">
-        <i class="far fa-clock" aria-hidden="true"></i>
-        
-          1 minute read
-        
-      </span>
-    
-  </p>
-
-
-    <p class="archive__item-excerpt" itemprop="description">TRT variance reduction
-</p>
-  </article>
-</div>
-
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <img src="/assets/images/mcatk_teaser.png" alt="">
-      </div>
-    
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      
-        <a href="/blog/2022-05-15_mcatk/" rel="permalink">Hybrid Delta Tracking in MCATK
-</a>
-      
-    </h2>
-    
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Hybrid Delta Tracking in MCATK
+</h1>
+          
 
   <p class="page__meta">
     
@@ -362,183 +307,119 @@
   </p>
 
 
-    <p class="archive__item-excerpt" itemprop="description">wood cock delta tracking on a structured mesh
-</p>
-  </article>
-</div>
-
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <img src="/assets/images/therefore.png" alt="">
-      </div>
-    
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      
-        <a href="/blog/2023-04-15_therefore/" rel="permalink">Therefore
-</a>
-      
-    </h2>
-    
-
-  <p class="page__meta">
-    
-
-    
-
-    
-      
+        </header>
       
 
-      <span class="page__meta-readtime">
-        <i class="far fa-clock" aria-hidden="true"></i>
+      <section class="page__content" itemprop="text">
         
-          2 minute read
+        <p>This work was done in conjunction with Los Alamos National Lab. This time with Travis Trahan, Tim Burke, and Collin Josey. As with <a href="/work/trt">flocking a</a>, my editorialization must be limited to what is in the paper itself in order to spare myself the bureaucratic hassle of filing this dumb stuff for official review.</p>
+
+<p>Just as a brief introduction: Monte Carlo Application Toolkit or MCATK is available from Los Alamos National Lab and does exactly what it sounds like. My job was to implement an idea my boss (Travis Trahan) had in it.</p>
+
+<p>The long short of the project is implementing a non-intrusive delta tracking technique into a production Monte Carlo neutron transport solver.
+The algorithm I implemented can solve k-eigen and fixed source problems.
+To test out the problem we used a few material complex benchmark problems like the Godiva IV core.
+Here is an example of a scalar flux burst dissipating through time.
+Note that shakes [sh] is a unit of measure with 1 sh = 1e-8 s</p>
+
+<figure class="">
+  <img src="/assets/images/mcatk.jpg" alt="" /></figure>
+
+<p>The paper was written for the International conference on Math &amp; Comp in Niagara Falls, ON, Can.
+For more information see my formally published work</p>
+<ul>
+  <li><a href="https://doi.org/10.48550/arXiv.2306.07847">preprint of the paper</a></li>
+  <li><a href="https://zenodo.org/doi/10.5281/zenodo.10511912">poster presentation</a></li>
+</ul>
+
         
-      </span>
+      </section>
+
+      <footer class="page__meta">
+        
+        
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
     
+      <a href="/tags/#monte-carlo" class="page__taxonomy-item" rel="tag">monte carlo</a><span class="sep">, </span>
+    
+      <a href="/tags/#neutron-transport" class="page__taxonomy-item" rel="tag">neutron transport</a><span class="sep">, </span>
+    
+      <a href="/tags/#variance-reduction" class="page__taxonomy-item" rel="tag">variance reduction</a>
+    
+    </span>
   </p>
 
 
-    <p class="archive__item-excerpt" itemprop="description">deterministic GPU neutron transport using one cell inversions
-</p>
-  </article>
-</div>
 
 
+  
 
 
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
     
-      <div class="archive__item-teaser">
-        <img src="/assets/images/mcdc-logo.png" alt="">
-      </div>
+      <a href="/categories/#my-work" class="page__taxonomy-item" rel="tag">my work</a>
     
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      
-        <a href="/blog/2025-05-15_mcdc_a/" rel="permalink">A Basic Primer for Monte Carlo / Dynamic Code
-</a>
-      
-    </h2>
-    
-
-  <p class="page__meta">
-    
-
-    
-
-    
-      
-      
-
-      <span class="page__meta-readtime">
-        <i class="far fa-clock" aria-hidden="true"></i>
-        
-          29 minute read
-        
-      </span>
-    
+    </span>
   </p>
 
 
-    <p class="archive__item-excerpt" itemprop="description">the razors edge of transient neutron transport!
-</p>
-  </article>
-</div>
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2022-05-15">May 15, 2022</time></p>
 
 
+      </footer>
+
+      <section class="page__share">
+  
+
+  <a href="https://twitter.com/intent/tweet?text=Hybrid+Delta+Tracking+in+MCATK%20https%3A%2F%2Fjpmorgan98.github.io%2Fblog%2F2022-05-15_mcatk%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fjpmorgan98.github.io%2Fblog%2F2022-05-15_mcatk%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fjpmorgan98.github.io%2Fblog%2F2022-05-15_mcatk%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
 
 
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+      
+  <nav class="pagination">
     
-      <div class="archive__item-teaser">
-        <img src="/assets/images/photon.png" alt="">
+      <a href="/blog/2021-01-15_trt/" class="pagination--pager" title="Flocking A
+">Previous</a>
+    
+    
+      <a href="/blog/2023-04-15_therefore/" class="pagination--pager" title="Therefore
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h4 class="page__related-title">You May Also Enjoy</h4>
+      <div class="grid__wrapper">
+        
       </div>
-    
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      
-        <a href="/blog/2025-05-27_radtransport/" rel="permalink">Imagine your a photon
-</a>
-      
-    </h2>
-    
-
-  <p class="page__meta">
-    
-
-    
-
-    
-      
-      
-
-      <span class="page__meta-readtime">
-        <i class="far fa-clock" aria-hidden="true"></i>
-        
-          20 minute read
-        
-      </span>
-    
-  </p>
-
-
-    <p class="archive__item-excerpt" itemprop="description">A brief introduction to radiation transport for a general audience
-</p>
-  </article>
+    </div>
+  
 </div>
 
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <img src="/assets/images/speedup.png" alt="">
-      </div>
-    
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      
-        <a href="/blog/mcdc_b/" rel="permalink">My work in Monte Carlo / Dynamic Code
-</a>
-      
-    </h2>
-    
-
-  <p class="page__meta">
-    
-
-    
-
-    
-      
-      
-
-      <span class="page__meta-readtime">
-        <i class="far fa-clock" aria-hidden="true"></i>
-        
-          1 minute read
-        
-      </span>
-    
-  </p>
-
-
-    <p class="archive__item-excerpt" itemprop="description">the razors edge of transient neutron transport!
-</p>
-  </article>
-</div>
-
-</div>
-
-  </div>
-</div>
     </div>
 
     
@@ -589,6 +470,11 @@
 
 
 
+
+
+    
+
+  
 
 
 

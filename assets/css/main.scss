@@ -51,10 +51,16 @@ html {
     .archive__item-teaser {
       @include breakpoint($small) {
         max-height: 200px;
+        height: 100px;
+        margin-top: auto;
+        margin-bottom: auto;
       }
   
       @include breakpoint($medium) {
         max-height: 200px;
+        height: 150px;
+        margin-top: auto;
+        margin-bottom: auto;
       }
     }
   }

@@ -28,7 +28,7 @@ header:
 #      url: "/cv/"
 
 excerpt: >
-  I'm a nuclear and mechanical engineering PhD who likes a good pun<br />
+  Rad transport researcher who likes a good pun<br />
 
 
 # images must be 5x3!!!!

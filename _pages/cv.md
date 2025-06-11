@@ -16,13 +16,13 @@ classes: wide
         Major Advisor: [Kyle E. Niemeyer](https://niemeyer-research-group.github.io/)\\
         Minor: Nuclear Engineering, 
         Minor Advisor: [Todd S. Palmer](https://engineering.oregonstate.edu/people/todd-palmer) \\
-        Dissertation title: [*Algorithms and Software Engineering Schemes for Time-Dependent Radiation Transport on Heterogeneous Compute Architectures*](), [<i class='fa fa-file-powerpoint'></i>](https://doi.org/10.5281/zenodo.15628417), [<i class='fa fa-file-pdf'></i>](/assets/docs/defense_annoucment.pdf) 
+        Dissertation title: [*Algorithms and Software Engineering Schemes for Time-Dependent Radiation Transport on Heterogeneous Compute Architectures*](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/7p88cr417), [<i class='fa fa-file-powerpoint'></i>](https://doi.org/10.5281/zenodo.15628417), [<i class='fa fa-file-pdf'></i>](/assets/docs/defense_annoucment.pdf) 
 
 
 * MS Mechanical Engineering (December 2022)\\
 <small> [Oregon State University](https://oregonstate.edu/), [School of Mechanical, Industrial, and Manufacturing Engineering](https://engineering.oregonstate.edu/MIME)\\
         Emphasis: Thermal Fluid Sciences, 
-        Major Advisor: [Kyle E. Niemeyer](https://niemeyer-research-group.github.io/)\\
+        Advisor: [Kyle E. Niemeyer](https://niemeyer-research-group.github.io/)\\
         Project Report: [Explorations of Monte Carlo Solution and Implementation Methods for Thermal Radiation and Neutron Transport](/assets/docs/masters.pdf)
 
 * BS Mechanical Engineering (June 2020)\\

@@ -21,9 +21,9 @@ feature_row:
 
 My friends call me Piper, Annie, Josie, or Pipes but Joanna or any nicknames you can come up with will work!
 
-I'm a doctoral candidate at Oregon State University where I will get my PhD in mechanical engineering with an option in thermal fluid sciences and a minor in nuclear engineering in June of 2025.
+I'm a a recent graduate of Oregon State University where I got my PhD in mechanical engineering with an option in thermal fluid sciences and a minor in nuclear engineering. I defended on June 9th of 2025.
 
-My current research is in time-dependent Monte Carlo neutron transport for high performance/heterogeneous compute systems enabled by Python. This research is part of the [Center for Exascale Monte Carlo Neutron Transport (CEMeNT)](https://cement-psaap.github.io/) which is funded by the NNSA, through which I get to run transport problems on some of the largest supercomputers in the world! I also work on developing transient deterministic neutron transport algorithms for GPU computations.
+My research through grad school and continuing on is in time-dependent Monte Carlo neutron transport for high performance/heterogeneous compute systems enabled by Python. This research was part of the [Center for Exascale Monte Carlo Neutron Transport (CEMeNT)](https://cement-psaap.github.io/) which was funded by the NNSA, through which I got to run transport problems on some of the largest supercomputers in the world at that time! I also worked on developing transient deterministic neutron transport algorithms for GPU computations.
 
 The common thread in my work is how to solve radiation transport problems (mainly neutrons but also occasionally photons) on modern HPC architectures full of interesting heterogeneous structures and occasionally bespoke hardware accelerators.
 My work sits somewhere between numerical methods, neutral particle transport phenomena, sustainable scientific software development, and exaclass (really big) high performance computing research.

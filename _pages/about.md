@@ -33,7 +33,7 @@ While in grad school I have worked at Advanced Micro Devices (AMD) in Data Cente
 
 In my free time I like to volunteer at the historic [Whiteside Theater](https://www.whitesidetheatre.org/) in Corvallis, make a pretty good pun every now and again,
 go thrifting, and hang out with my dog Rudy (Pitt Bull, Shar-Pie, Super Mutt mix) and my roommate's dog Pamela (German Shorthair Pointer) pictured below.
-Rudy actually did a DNA test to figure out some of this stuff. [You can see his results here](https://embk.me/rudy2044)
+Rudy actually did a DNA test to figure out some of this stuff. [You can see his results here](https://app.embarkvet.com/pet/aa2678d0-840f-4cfc-a99f-fabad5aff75c/about)
 
 {% include feature_row %}
 

@@ -10,6 +10,8 @@ This is an abridged version of my *cv*. [A full pdf copy of my *cv* can be found
 
 ## Journal Publications
 
+*  **J. P. Morgan**, I. Variansyah, K. B. Clements, T. S. Palmer, K. E. Niemeyer. Hybrid Woodcock-delta Tracking Schemes Using a Track-Length Estimator. **accepted** *Journal of Computational and Theoretical Transport*. [arXiv:2510.00152](https://doi.org/10.48550/arXiv.2510.00152).
+
 * **J. P. Morgan**, I. Variansyah, T. S. Palmer, and K. E. Niemeyer. (2025) One-Cell Inversion for Solving Higher-Order Time-Dependent Radiation Transport on GPUs. **In Press.** *Nuclear Science and Engineering. AC-Time Dependent Transport and Radiative Transfer.* doi [10.1080/00295639.2025.2510004](https://doi.org/10.1080/00295639.2025.2510004). [arXiv:2503.00264](https://doi.org/10.48550/arXiv.2503.00264).
 
 * **J. P. Morgan**, I. Variansyah, B. Cuneo, T. S. Palmer, and K. E. Niemeyer. (2025) Performant and Portable Monte Carlo Neutron Transport via Numba. *Computing in Science and Engineering* **27 (1)** pp. 57-65. doi [10.1109/MCSE.2025.3550863](https://doi.org/10.1109/MCSE.2025.3550863). [arXiv:2409.04668](https://arxiv.org/abs/2409.04668).
@@ -36,9 +38,9 @@ This is an abridged version of my *cv*. [A full pdf copy of my *cv* can be found
 
 ## Upcoming Publications
 
-*  **J. P. Morgan**, I. Variansyah, K. B. Clements, K. E. Niemeyer. Hybrid Woodcock-delta Tracking Schemes Using a Track-Length Estimator. **submitted** [arXiv:2510.00152](https://doi.org/10.48550/arXiv.2510.00152).
-
 * **J. P. Morgan**,  T. S. Palmer, and K. E. Niemeyer. Efficient Preconditioning for Space-Parallel One Cell Inversions in Slab Geometry using a Second Moment Method. **in preparation**
+
+* **J. P. Morgan**, C. Percher, A Aboud. Unnamed paper on evaluation of Flat Top model revisions **in preparation**
 
 * M. Derman, **J. P. Morgan**, K. E. Niemeyer, T. S. Palmer. Unnamed paper on complex eigenvalue decomposition. **in preparation**
 
@@ -67,8 +69,9 @@ This is an abridged version of my *cv*. [A full pdf copy of my *cv* can be found
 
 ## Research Experience
 
-* Lawrence Livermore National Lab, Nuclear Criticality Safety Division (September 2025)\\
-<small> Postdoctoral Researcher
+* Lawrence Livermore National Lab, [Nuclear Criticality Safety Division]() (September 2025)\\
+<small> Postdoctoral Researcher\\
+Mentor: [Catherine Percher](https://www.linkedin.com/in/catherine-percher-063126133/)
 
 * Oregon State University, [Center for Monte Carlo Neutron Transport (CEMeNT)](https://cement-psaap.github.io/) & [Niemeyer Research Group (NRG)](https://niemeyer-research-group.github.io/) (June 2020 - June 2025)\\
 <small> Graduate Research Assistant\\
@@ -102,6 +105,13 @@ This is an abridged version of my *cv*. [A full pdf copy of my *cv* can be found
 
 ## Conferences & Professional Development
 Future dates are events I intended to go to.
+
+* June 2026, [American Nuclear Society Annual Conference*](https://www.ans.org/meetings/ac2026/), Denver, CO
+
+* January 2026, [Nuclear Data Week (Cross Section Evaluation Working Group (CSEWG))](https://www.bnl.gov/nuclear-data-week/), Brookhaven National Lab, NY
+
+* December 2025, [US Research Software Sustainability Institute (URSSI)*](https://github.com/si2-urssi/winterschool-Jan2024), Portland, OR\\
+<small> Teacher
 
 * May 2025, [International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (M&C 2025)](https://www.ans.org/meetings/mc2025/), Denver, CO
 [<i class='fa fa-file-pdf'></i>](https://doi.org/10.48550/arXiv.2501.05440)

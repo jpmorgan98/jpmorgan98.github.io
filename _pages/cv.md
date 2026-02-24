@@ -10,7 +10,7 @@ This is an abridged version of my *cv*. [A full pdf copy of my *cv* can be found
 
 ## Journal Publications
 
-*  **J. P. Morgan**, I. Variansyah, K. B. Clements, T. S. Palmer, K. E. Niemeyer. Hybrid Woodcock-delta Tracking Schemes Using a Track-Length Estimator. **accepted** *Journal of Computational and Theoretical Transport*. [arXiv:2510.00152](https://doi.org/10.48550/arXiv.2510.00152).
+*  **J. P. Morgan**, I. Variansyah, K. B. Clements, T. S. Palmer, K. E. Niemeyer. Hybrid Woodcock-delta Tracking Schemes Using a Track-Length Estimator. *Journal of Computational and Theoretical Transport*. doi [10.1080/23324309.2026.2618791](https://doi.org/10.1080/23324309.2026.2618791). [arXiv:2510.00152](https://doi.org/10.48550/arXiv.2510.00152).
 
 * **J. P. Morgan**, I. Variansyah, T. S. Palmer, and K. E. Niemeyer. (2025) One-Cell Inversion for Solving Higher-Order Time-Dependent Radiation Transport on GPUs. **In Press.** *Nuclear Science and Engineering. AC-Time Dependent Transport and Radiative Transfer.* doi [10.1080/00295639.2025.2510004](https://doi.org/10.1080/00295639.2025.2510004). [arXiv:2503.00264](https://doi.org/10.48550/arXiv.2503.00264).
 
@@ -21,6 +21,8 @@ This is an abridged version of my *cv*. [A full pdf copy of my *cv* can be found
 * **J. P. Morgan**, A. Mote, S. Pasmann, G. Ridley, T. S. Palmer, K. E. Niemeyer, R. G. McClarren. The Monte Carlo Computational Summit -- October 25 & 26, 2023 -- Notre Dame, Indiana, USA. *Journal of Computational and Theoretical Transport*. **53 (5)**, pp. 361–382. doi [10.1080/23324309.2024.2354401](https://doi.org/10.1080/23324309.2024.2354401). [arXiv:2402.08161](https://doi.org/10.48550/arXiv.2402.08161).
 
 ## Peer-Reviewed Conference Publications
+
+* **J. P. Morgan**, C. Percher, A Aboud. Revision Two and Three Comparison from Flattop HEU Benchmark (HEU-MET-FAST-028). (2026) **accepted** *Transactions of the American Nuclear Society*, Denver, CO.
 
 * **J. P. Morgan**, B. Cuneo, I. Variansyah, K. E. Niemeyer. Enabling GPU portability into the Numba-JITed Monte Carlo particle transport code MC/DC. (2025). *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C 2025).* Denver, CO, USA. doi [10.13182/MC25-47142](https://doi.org/10.13182/MC25-47142). [arXiv:2501.05440](https://doi.org/10.48550/arXiv.2501.05440)
 
@@ -38,11 +40,11 @@ This is an abridged version of my *cv*. [A full pdf copy of my *cv* can be found
 
 ## Upcoming Publications
 
-* **J. P. Morgan**,  T. S. Palmer, and K. E. Niemeyer. Efficient Preconditioning for Space-Parallel One Cell Inversions in Slab Geometry using a Second Moment Method. **in preparation**
-
-* **J. P. Morgan**, C. Percher, A Aboud. Unnamed paper on evaluation of Flat Top model revisions **in preparation**
+* J. P. Morgan, I. Variansyah, T. S. Palmer, K. E. Niemeyer. A second-moment iterative method for space-parallel one cell inversions in 2D. **in review**
 
 * M. Derman, **J. P. Morgan**, K. E. Niemeyer, T. S. Palmer. Unnamed paper on complex eigenvalue decomposition. **in preparation**
+
+* J. P. Morgan, J. Norris, C. Percher, Unnamed paper on critical experiment design. **in preparation**
 
 ## Education
 
@@ -108,7 +110,9 @@ Future dates are events I intended to go to.
 
 * June 2026, [American Nuclear Society Annual Conference*](https://www.ans.org/meetings/ac2026/), Denver, CO
 
-* January 2026, [Nuclear Data Week (Cross Section Evaluation Working Group (CSEWG))](https://www.bnl.gov/nuclear-data-week/), Brookhaven National Lab, NY
+* April 2026, ICSBEP, Technical Review Meetings, Paris, France
+
+* January 2026, [Nuclear Data Week (Cross Section Evaluation Working Group (CSEWG))*](https://www.bnl.gov/nuclear-data-week/), Brookhaven National Lab, NY
 
 * December 2025, [US Research Software Sustainability Institute (URSSI)*](https://github.com/si2-urssi/winterschool-Jan2024), Portland, OR\\
 <small> Teacher

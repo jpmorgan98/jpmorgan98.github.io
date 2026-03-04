@@ -61,6 +61,15 @@ feature_row:
 
 Welcome to my professional website. Feel free to click around look at some of my projects, cv, or whatever floats your boat! If you feel inclined to reach out (e.g. academic discussions, just wanna say hi, etc.) please don't hesitate to shoot me an email at [joannapipermorgan@gmail.com](mailto:joannapipermorgan@gmail.com).
 
+<span style="font-size:1.35em; font-weight:700;">Upcoming Conferences</span><br>
+<span style="font-size:1em;"><br>
+**April 13–18 2026**, International Criticality Safety Benchmark Evaluation Project (ICSBEP) Technical Review Meeting, Paris, France<br>
+**June 1–3 2026**, [American Nuclear Society Annual Conference*](https://www.ans.org/meetings/ac2026/), Denver, CO
+[<i class="fa fa-file-pdf"></i>](/assets/docs/flat_top.pdf)<br>
+**June 14–18 2026**, [29th International Conference on Transport Theory (ICTT-29)](https://multiphysics.engr.tamu.edu/ictt-29/), Aix-en-Provence, France
+[<i class="fa fa-file-pdf"></i>](/assets/docs/morganJoanna_ICTT_final.pdf)
+</span>
+{: .notice--info}
 
 # Some Interesting Projects
 {% include feature_row %}

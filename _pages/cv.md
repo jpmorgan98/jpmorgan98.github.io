@@ -94,25 +94,18 @@ Mentor: [Catherine Percher](https://www.linkedin.com/in/catherine-percher-063126
         Mentors: Alex Long, [Kendra Long](https://orcid.org/0000-0003-2069-8103)\\
         Project: [Novel TRT Variance Reduction](/work/trt)
 
-* Argonne National Lab, Physics Division (June 2019 - September 2019)\\
-<small> [Lee Teng Undergraduate Fellow](https://www.anl.gov/aai/lee-teng-internship)\\
-        Mentor: [Brahim Mustapha](https://www.anl.gov/profile/brahim-mustapha)\\
-        Project: Cancer radio therapy x-y scanner magnet optimization
-
-* [Thomas Jefferson National Accelerator Facility](https://www.jlab.org/), Magnet Group (June 2018 - August 2018)\\
-<small> [Science Undergraduate Laboratory Intern (SULI)](https://science.osti.gov/wdts/suli)\\
-        Mentor: Renuka Rajput-Goshal\\
-        Project: Super conducting quadrupole magnet optimization
-
 
 ## Conferences & Professional Development
 Future dates are events I intended to go to.
 
+* June 2026, [29th International Conference on Transport Theory (ICTT-29)*](https://multiphysics.engr.tamu.edu/ictt-29/), Aix-en-Provence, France
+[<i class='fa fa-file-pdf'></i>](/assets/docs/morganJoanna_ICTT_final.pdf)
+
 * June 2026, [American Nuclear Society Annual Conference*](https://www.ans.org/meetings/ac2026/), Denver, CO
 
-* April 2026, ICSBEP, Technical Review Meetings, Paris, France
+* April 2026, International Criticality Safety Benchmark Evaluation Project (ICSBEP) Technical Review Meeting, Paris, France
 
-* January 2026, [Nuclear Data Week (Cross Section Evaluation Working Group (CSEWG))*](https://www.bnl.gov/nuclear-data-week/), Brookhaven National Lab, NY
+* January 2026, [Nuclear Data Week (Cross Section Evaluation Working Group (CSEWG)*](https://www.bnl.gov/nuclear-data-week/), Brookhaven National Lab, NY
 
 * December 2025, [US Research Software Sustainability Institute (URSSI)*](https://github.com/si2-urssi/winterschool-Jan2024), Portland, OR\\
 <small> Teacher
@@ -163,3 +156,12 @@ Future dates are events I intended to go to.
         Credit provided by University of New Mexico
 
 <small>*presented at conference
+
+
+## Miscellaneous
+
+* Security Clearance: DOE Q (Active)
+
+* Member, American Nuclear Society (ANS)
+
+* Member, Tau Beta Pi (Engineering Honors Society), Oregon Delta 2018

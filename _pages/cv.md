@@ -95,11 +95,11 @@ Mentor: [Catherine Percher](https://www.linkedin.com/in/catherine-percher-063126
         Project: [Novel TRT Variance Reduction](/work/trt)
 
 
-## Conferences & Professional Development
+## Presentations & Professional Development
 Future dates are events I intended to go to.
 
 * June 2026, [29th International Conference on Transport Theory (ICTT-29)*](https://multiphysics.engr.tamu.edu/ictt-29/), Aix-en-Provence, France
-[<i class='fa fa-file-pdf'></i>](/assets/docs/morganJoanna_ICTT_final.pdf)
+[<i class='fa fa-file-pdf'></i>](/assets/docs/morganJoanna_ICTT_f.pdf)
 
 * June 2026, [American Nuclear Society Annual Conference*](https://www.ans.org/meetings/ac2026/), Denver, CO
 

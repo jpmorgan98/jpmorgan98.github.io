@@ -6,23 +6,29 @@ classes: wide
 # toc: true
 ---
 
-This is an abridged version of my *cv*. [A full pdf copy of my *cv* can be found here](/assets/docs/cv.pdf).
+This is an abridged version of my *cv*. You can find a:
+* [full pdf copy of my *cv*](/assets/docs/cv.pdf) and a;
+* [single page resume](/assets/docs/resume.pdf)
 
 ## Journal Publications
 
 *  **J. P. Morgan**, I. Variansyah, K. B. Clements, T. S. Palmer, K. E. Niemeyer. Hybrid Woodcock-delta Tracking Schemes Using a Track-Length Estimator. *Journal of Computational and Theoretical Transport*. doi [10.1080/23324309.2026.2618791](https://doi.org/10.1080/23324309.2026.2618791). [arXiv:2510.00152](https://doi.org/10.48550/arXiv.2510.00152).
 
-* **J. P. Morgan**, I. Variansyah, T. S. Palmer, and K. E. Niemeyer. (2025) One-Cell Inversion for Solving Higher-Order Time-Dependent Radiation Transport on GPUs. **In Press.** *Nuclear Science and Engineering. AC-Time Dependent Transport and Radiative Transfer.* doi [10.1080/00295639.2025.2510004](https://doi.org/10.1080/00295639.2025.2510004). [arXiv:2503.00264](https://doi.org/10.48550/arXiv.2503.00264).
+* **J. P. Morgan**, I. Variansyah, T. S. Palmer, and K. E. Niemeyer. (2025) One-Cell Inversion for Solving Higher-Order Time-Dependent Radiation Transport on GPUs. **200(5)** pp. 1074-1093 *Nuclear Science and Engineering. AC-Time Dependent Transport and Radiative Transfer.* doi [10.1080/00295639.2025.2510004](https://doi.org/10.1080/00295639.2025.2510004). [arXiv:2503.00264](https://doi.org/10.48550/arXiv.2503.00264).
 
-* **J. P. Morgan**, I. Variansyah, B. Cuneo, T. S. Palmer, and K. E. Niemeyer. (2025) Performant and Portable Monte Carlo Neutron Transport via Numba. *Computing in Science and Engineering* **27 (1)** pp. 57-65. doi [10.1109/MCSE.2025.3550863](https://doi.org/10.1109/MCSE.2025.3550863). [arXiv:2409.04668](https://arxiv.org/abs/2409.04668).
+* **J. P. Morgan**, I. Variansyah, B. Cuneo, T. S. Palmer, and K. E. Niemeyer. (2025) Performant and Portable Monte Carlo Neutron Transport via Numba. *Computing in Science and Engineering* **27(1)** pp. 57-65. doi [10.1109/MCSE.2025.3550863](https://doi.org/10.1109/MCSE.2025.3550863). [arXiv:2409.04668](https://arxiv.org/abs/2409.04668).
 
 * **J. P. Morgan**, I. Variansyah, S. Pasmann, K. B. Clements, B. Cuneo, A. Mote, C. Shaw, J. Northrop, R. Pankaj, E. Lame, B. Whewell, R. McClarren, T. Palmer, L. Chen, D. Anistratov, C. T. Kelley, C. Palmer, and K. E. Niemeyer. (2024) Monte Carlo / Dynamic Code (MC/DC): An accelerated Python package for fully transient neutron transport and rapid methods development. *Journal of Open Source Software*. **9(96)**, 6415. doi [10.21105/joss.06415]( https://doi.org/10.21105/joss.06415).
 
 * **J. P. Morgan**, A. Mote, S. Pasmann, G. Ridley, T. S. Palmer, K. E. Niemeyer, R. G. McClarren. The Monte Carlo Computational Summit -- October 25 & 26, 2023 -- Notre Dame, Indiana, USA. *Journal of Computational and Theoretical Transport*. **53 (5)**, pp. 361–382. doi [10.1080/23324309.2024.2354401](https://doi.org/10.1080/23324309.2024.2354401). [arXiv:2402.08161](https://doi.org/10.48550/arXiv.2402.08161).
 
-## Peer-Reviewed Conference Publications
+## Conference Publication
 
-* **J. P. Morgan**, C. Percher, A Aboud. Revision Two and Three Comparison from Flattop HEU Benchmark (HEU-MET-FAST-028). (2026) **accepted** *Transactions of the American Nuclear Society*, Denver, CO.
+* **J. P. Morgan**, J. Glesmann, C. Percher, Z. Lemke, (2026) *2026 ANS Winter Conference & Expo*. [<i class="fa fa-file-pdf"></i>](/assets/docs/tex_hanford.pdf).
+
+* **J. P. Morgan**, Second Moment Acceleration for Incident Fluxes on Cell Surfaces. (2026) [*29th International Conference on Transport Theory (ICTT-29)*](https://multiphysics.engr.tamu.edu/ictt-29/), Aix-en-Provence, France. [<i class="fa fa-file-pdf"></i>](/assets/docs/morganJoanna_ICTT_f.pdf) [<i class='fa fa-file-pdf'></i>](https://multiphysics.engr.tamu.edu/wp-content/uploads/sites/230/2026/06/ICTT29_program_and_book_of_abstracts_FINAL.pdf)
+
+* **J. P. Morgan**, C. Percher, A Aboud. Revision Two and Three Comparison from Flattop HEU Benchmark (HEU-MET-FAST-028). (2026) *Transactions of the American Nuclear Society*, Denver, CO. doi []() [<i class="fa fa-file-pdf"></i>](/assets/docs/flat_top.pdf)<br>
 
 * **J. P. Morgan**, B. Cuneo, I. Variansyah, K. E. Niemeyer. Enabling GPU portability into the Numba-JITed Monte Carlo particle transport code MC/DC. (2025). *International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M&C 2025).* Denver, CO, USA. doi [10.13182/MC25-47142](https://doi.org/10.13182/MC25-47142). [arXiv:2501.05440](https://doi.org/10.48550/arXiv.2501.05440)
 
@@ -98,8 +104,10 @@ Mentor: [Catherine Percher](https://www.linkedin.com/in/catherine-percher-063126
 ## Presentations & Professional Development
 Future dates are events I intended to go to.
 
+* November 2026, [2026 ANS Winter Meeting and Expo](https://www.ans.org/meetings/wc2026/)
+
 * June 2026, [29th International Conference on Transport Theory (ICTT-29)*](https://multiphysics.engr.tamu.edu/ictt-29/), Aix-en-Provence, France
-[<i class='fa fa-file-pdf'></i>](/assets/docs/morganJoanna_ICTT_f.pdf)
+[<i class='fa fa-file-pdf'></i>](/assets/docs/morganJoanna_ICTT_f.pdf) [poster <i class='fa fa-file-pdf'></i>](/assets/docs/ictt_poster.pdf)
 
 * June 2026, [American Nuclear Society Annual Conference*](https://www.ans.org/meetings/ac2026/), Denver, CO
 
@@ -159,8 +167,6 @@ Future dates are events I intended to go to.
 
 
 ## Miscellaneous
-
-* Security Clearance: DOE Q (Active)
 
 * Member, American Nuclear Society (ANS)
 

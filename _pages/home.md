@@ -63,11 +63,8 @@ Welcome to my professional website. Feel free to click around look at some of my
 
 <span style="font-size:1.35em; font-weight:700;">Upcoming Conferences</span><br>
 <span style="font-size:1em;"><br>
-**April 13–18 2026**, International Criticality Safety Benchmark Evaluation Project (ICSBEP) Technical Review Meeting, Paris, France<br>
-**June 1–3 2026**, [American Nuclear Society Annual Conference](https://www.ans.org/meetings/ac2026/), Denver, CO
-[<i class="fa fa-file-pdf"></i>](/assets/docs/flat_top.pdf)<br>
-**June 14–18 2026**, [29th International Conference on Transport Theory (ICTT-29)](https://multiphysics.engr.tamu.edu/ictt-29/), Aix-en-Provence, France
-[<i class="fa fa-file-pdf"></i>](/assets/docs/morganJoanna_ICTT_f.pdf)
+**November 15–18 2026**, [American Nuclear Society Winter Meeting and Expo](https://www.ans.org/meetings/wc2026/), Phoenix, AZ
+[<i class="fa fa-file-pdf"></i>](/assets/docs/tex_hanford.pdf)<br>
 </span>
 {: .notice--info}
 

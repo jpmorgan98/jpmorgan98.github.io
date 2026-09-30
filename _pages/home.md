@@ -63,8 +63,12 @@ Welcome to my professional website. Feel free to click around look at some of my
 
 <span style="font-size:1.35em; font-weight:700;">Upcoming Conferences</span><br>
 <span style="font-size:1em;"><br>
-**November 15–18 2026**, [American Nuclear Society Winter Meeting and Expo](https://www.ans.org/meetings/wc2026/), Phoenix, AZ
-[<i class="fa fa-file-pdf"></i>](/assets/docs/tex_hanford.pdf)<br>
+**November 2-6 2026**, [Cross Section Evaluation Working Group (CSEWG)](https://www.nndc.bnl.gov/csewg/), Brookhaven National Lab, Upton, NY\\
+**November 15–18 2026**, [American Nuclear Society Winter Meeting and Expo](https://www.ans.org/meetings/wc2026/), Phoenix, AZ [<i class="fa fa-file-pdf"></i>](/assets/docs/tex_hanford.pdf)\\
+**April 18-22 2027**, [M&C 2027](https://www.ans.org/meetings/mc2027/) [<i class="fa fa-file-pdf"></i>](https://arxiv.org/abs/2609.04451)\\
+**April 15–18 2027**, International Criticality Safety Benchmark Evaluation Project (ICSBEP) Technical Review Meeting, Tokaimura, Japan\\
+**September 19-24 2027**, [13th International Conference on Nuclear Criticality (ICNC)](https://www.euronuclear.org/project/icnc-2027-19-24-september-2027-manchester-uk/), Manchester, UK
+<br>
 </span>
 {: .notice--info}
 

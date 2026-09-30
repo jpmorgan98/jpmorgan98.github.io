@@ -24,6 +24,8 @@ This is an abridged version of my *cv*. You can find a:
 
 ## Conference Publication
 
+* **J. P. Morgan**, O. I. Ortega. Reduced Precision Diffusion Synthetic Acceleration for S$_N$ Neutron Transport in LLNL's ARDRA using Hypre. *Proceedings of the International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (ANS M\&C 2026)*. [<i class="fa fa-file-pdf"></i>](https://doi.org/10.48550/arXiv.2609.04451)
+
 * **J. P. Morgan**, J. Glesmann, C. Percher, Z. Lemke, (2026) *2026 ANS Winter Conference & Expo*. [<i class="fa fa-file-pdf"></i>](/assets/docs/tex_hanford.pdf).
 
 * **J. P. Morgan**, Second Moment Acceleration for Incident Fluxes on Cell Surfaces. (2026) [*29th International Conference on Transport Theory (ICTT-29)*](https://multiphysics.engr.tamu.edu/ictt-29/), Aix-en-Provence, France. [<i class="fa fa-file-pdf"></i>](/assets/docs/morganJoanna_ICTT_f.pdf) [<i class='fa fa-file-pdf'></i>](https://multiphysics.engr.tamu.edu/wp-content/uploads/sites/230/2026/06/ICTT29_program_and_book_of_abstracts_FINAL.pdf)
@@ -104,7 +106,15 @@ Mentor: [Catherine Percher](https://www.linkedin.com/in/catherine-percher-063126
 ## Presentations & Professional Development
 Future dates are events I intended to go to.
 
-* November 2026, [2026 ANS Winter Meeting and Expo](https://www.ans.org/meetings/wc2026/)
+* September 2027, [13th International Conference on Nuclear Criticality (ICNC)](https://www.euronuclear.org/project/icnc-2027-19-24-september-2027-manchester-uk/), Manchester, United Kingdom
+
+* April 2027, International Criticality Safety Benchmark Evaluation Project (ICSBEP) Technical Review Meeting, Tokaimura, Japan
+
+* November 2026, [2026 ANS Winter Meeting and Expo](https://www.ans.org/meetings/wc2026/), Phenix, AZ
+
+* November 2026, [Cross Section Evaluation Working Group (CSEWG)](https://www.nndc.bnl.gov/csewg/), Brookhaven National Lab, Upton, NY
+
+* August 2026, [Criticality Safety Engineer Two Week Hands-On Trainings and Education Course]()  Las Vegas, NV and Sandia National Lab, Albuquerque NM
 
 * June 2026, [29th International Conference on Transport Theory (ICTT-29)*](https://multiphysics.engr.tamu.edu/ictt-29/), Aix-en-Provence, France
 [<i class='fa fa-file-pdf'></i>](/assets/docs/morganJoanna_ICTT_f.pdf) [poster <i class='fa fa-file-pdf'></i>](/assets/docs/ictt_poster.pdf)
@@ -164,7 +174,6 @@ Future dates are events I intended to go to.
         Credit provided by University of New Mexico
 
 <small>*presented at conference
-
 
 ## Miscellaneous
 

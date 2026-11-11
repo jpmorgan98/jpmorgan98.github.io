@@ -198,7 +198,6 @@
 
 <p class="notice--info"><span style="font-size:1.35em; font-weight:700;">Upcoming Conferences</span><br />
 <span style="font-size:1em;"><br />
-<strong>November 2-6 2026</strong>, <a href="https://www.nndc.bnl.gov/csewg/">Cross Section Evaluation Working Group (CSEWG)</a>, Brookhaven National Lab, Upton, NY<br />
 <strong>November 15–18 2026</strong>, <a href="https://www.ans.org/meetings/wc2026/">American Nuclear Society Winter Meeting and Expo</a>, Phoenix, AZ <a href="/assets/docs/tex_hanford.pdf"><i class="fa fa-file-pdf"></i></a><br />
 <strong>April 18-22 2027</strong>, <a href="https://www.ans.org/meetings/mc2027/">M&amp;C 2027</a> <a href="https://arxiv.org/abs/2609.04451"><i class="fa fa-file-pdf"></i></a><br />
 <strong>April 15–18 2027</strong>, International Criticality Safety Benchmark Evaluation Project (ICSBEP) Technical Review Meeting, Tokaimura, Japan<br />
@@ -297,6 +296,24 @@
   
 
 </div>
+
+<div class="home-video" id="home-video">
+  <button class="home-video__preview" type="button" aria-label="Play presentation video from 2:02">
+    <img src="/assets/images/hpc-webinar-preview-2m11s.png" alt="" loading="lazy" />
+    <span class="home-video__play" aria-hidden="true">▶</span>
+    <span class="home-video__time" aria-hidden="true">Preview at 2:11</span>
+  </button>
+</div>
+<script>
+  document.querySelector("#home-video button").addEventListener("click", function () {
+    const player = document.createElement("iframe");
+    player.src = "https://www.youtube.com/embed/bOhBFzlJKPw?start=122&autoplay=1";
+    player.title = "Presentation video, starting at 2:02";
+    player.allow = "autoplay; encrypted-media; picture-in-picture";
+    player.allowFullscreen = true;
+    this.replaceWith(player);
+  });
+</script>
 
 
     </section>

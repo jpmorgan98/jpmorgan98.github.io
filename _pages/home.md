@@ -63,7 +63,6 @@ Welcome to my professional website. Feel free to click around look at some of my
 
 <span style="font-size:1.35em; font-weight:700;">Upcoming Conferences</span><br>
 <span style="font-size:1em;"><br>
-**November 2-6 2026**, [Cross Section Evaluation Working Group (CSEWG)](https://www.nndc.bnl.gov/csewg/), Brookhaven National Lab, Upton, NY\\
 **November 15–18 2026**, [American Nuclear Society Winter Meeting and Expo](https://www.ans.org/meetings/wc2026/), Phoenix, AZ [<i class="fa fa-file-pdf"></i>](/assets/docs/tex_hanford.pdf)\\
 **April 18-22 2027**, [M&C 2027](https://www.ans.org/meetings/mc2027/) [<i class="fa fa-file-pdf"></i>](https://arxiv.org/abs/2609.04451)\\
 **April 15–18 2027**, International Criticality Safety Benchmark Evaluation Project (ICSBEP) Technical Review Meeting, Tokaimura, Japan\\
@@ -74,3 +73,21 @@ Welcome to my professional website. Feel free to click around look at some of my
 
 # Some Interesting Projects
 {% include feature_row %}
+
+<div class="home-video" id="home-video">
+  <button class="home-video__preview" type="button" aria-label="Play presentation video from 2:02">
+    <img src="/assets/images/hpc-webinar-preview-2m11s.png" alt="" loading="lazy">
+    <span class="home-video__play" aria-hidden="true">▶</span>
+    <span class="home-video__time" aria-hidden="true">Preview at 2:11</span>
+  </button>
+</div>
+<script>
+  document.querySelector("#home-video button").addEventListener("click", function () {
+    const player = document.createElement("iframe");
+    player.src = "https://www.youtube.com/embed/bOhBFzlJKPw?start=122&autoplay=1";
+    player.title = "Presentation video, starting at 2:02";
+    player.allow = "autoplay; encrypted-media; picture-in-picture";
+    player.allowFullscreen = true;
+    this.replaceWith(player);
+  });
+</script>

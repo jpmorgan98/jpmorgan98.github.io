@@ -1,9 +1,6 @@
-#!/bin/bash
+#!/usr/bin/env bash
+set -euo pipefail
 
-rm -r -f docs
-rm -r -f _site
-
-bundle exec jekyll b
-
-mkdir docs
-cp -r _site/ docs/
+# GitHub Pages serves the generated site from docs/.
+export PATH="$(brew --prefix ruby@3.4)/bin:$PATH"
+bundle exec jekyll build --destination docs

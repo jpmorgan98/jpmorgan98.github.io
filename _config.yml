@@ -143,6 +143,7 @@ include:
   - .htaccess
   - _pages
 exclude:
+  - docs
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor
